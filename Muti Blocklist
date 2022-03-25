@@ -8,3 +8,11 @@
 ||gcs.sc-cdn.net^
 ||bolt-gcdn.sc-cdn.net^
 ||gtq6.sct.sc-prod.net^
+#Anti-Tracking & Telementry
+||ttl1-31104000.dns-server.idealeer.com^$important
+||cryptauthenrollment.googleapis.com^
+||cryptauthdevicesync.googleapis.com^
+||phonedeviceverification-pa.googleapis.com^
+||userlocation.googleapis.com^
+||i.pinimg.com^$important
+||rawtelemetry-east.servicebus.windows.net^$important
