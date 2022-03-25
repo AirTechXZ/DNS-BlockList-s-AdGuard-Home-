@@ -1,0 +1,10 @@
+#....Personal Blocklist by MCXSecure
+#....Websites and Domains that I have personally blocked through my own research and testing
+
+
+#....Last updated 3/25/2022
+
+#Snapchat
+||gcs.sc-cdn.net^
+||bolt-gcdn.sc-cdn.net^
+||gtq6.sct.sc-prod.net^
