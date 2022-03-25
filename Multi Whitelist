@@ -10,15 +10,24 @@
 @@||mcxsecure.net^$important
 @@||rtfmsecure.net^$important
 #Snapchat
-@@||cf-st.sc-cdn.net^ # Needed for Snapchat Storys
-@@||s.sc-cdn.net^ # Needed for SnapMap content & stories
-@@||shows.snapchat.com^ # Needed to display accounts & profiles data
-@@||pro-accounts.snapchat.com^ # Needed to display accounts & profiles
-@@||app.snapchat.com^ #Needes for Shopping in app
-@@||aws.api.snapchat.com^ # Main domain must be Allowed
-@@||gcp.api.snapchat.com^ # Main domain must be Allowed 
+# Needed for Snapchat Storys
+@@||cf-st.sc-cdn.net^
+# Needed for SnapMap content & stories
+@@||s.sc-cdn.net^
+# Needed to display accounts & profiles data
+@@||shows.snapchat.com^
+# Needed to display accounts & profiles
+@@||pro-accounts.snapchat.com^
+# Needed for Shopping in app
+@@||app.snapchat.com^
+# Main domain must be Allowed
+@@||aws.api.snapchat.com^
+# Main domain must be Allowed 
+@@||gcp.api.snapchat.com^
 #@@||us-central1-gcp.api.snapchat.com^ # Needed especially for loading stories, discover, & subscribes content
-@@||us-east4-gcp.api.snapchat.com^ # Needed for Snaps & Chat
+# Needed for Snaps & Chat
+@@||us-east4-gcp.api.snapchat.com^
 
 #YouTube
-@@||s.youtube.com^ # Needed for YouTube video/music watch history
+# Needed for YouTube video/music watch history
+@@||s.youtube.com^
