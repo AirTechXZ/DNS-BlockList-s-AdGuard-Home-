@@ -10,6 +10,9 @@
 ||gcs.sc-cdn.net^
 ||bolt-gcdn.sc-cdn.net^
 ||gtq6.sct.sc-prod.net^
+||aws.duplex.snapchat.com^
+||mvm.snapchat.com^
+||us-east1-aws.api.snapchat.com^
 #Anti-Tracking & Telementry
 ||ttl1-31104000.dns-server.idealeer.com^$important
 ||cryptauthenrollment.googleapis.com^
