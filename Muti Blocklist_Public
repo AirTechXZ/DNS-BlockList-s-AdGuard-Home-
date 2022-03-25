@@ -19,5 +19,6 @@
 ||cryptauthdevicesync.googleapis.com^
 ||phonedeviceverification-pa.googleapis.com^
 ||userlocation.googleapis.com^
+#...⇊blocks a pinetrest tracker⇊
 ||i.pinimg.com^$important
 ||rawtelemetry-east.servicebus.windows.net^$important
