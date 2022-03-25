@@ -44,6 +44,9 @@
 #
 #...⇊..Needed for Snaps & Chat..⇊
 @@||us-east4-gcp.api.snapchat.com^
+#
+#...⇊..Needed for adding friends..⇊
+@@||mvm.snapchat.com^
 
 
 
