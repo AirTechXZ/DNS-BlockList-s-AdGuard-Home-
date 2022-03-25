@@ -1,6 +1,11 @@
+#....Personal Whitelist by MCXSecure
+#....Websites and Domains that I have personally allowed through my own research and testing
+#....This list may not fully allow all sites, domains and services that are needed for funtionality! Please use at your own risk!
 
+#....Copyright 2022© MCXSecure
+#....Last updated 3/25/2022
 
-
+#...........List begins here.............
 #Snapchat
 @@||cf-st.sc-cdn.net^ # Needed for Snapchat Storys
 @@||s.sc-cdn.net^ # Needed for SnapMap content & stories
