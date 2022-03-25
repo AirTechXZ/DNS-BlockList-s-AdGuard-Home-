@@ -35,3 +35,9 @@
 #YouTube
 # Needed for YouTube video/music watch history
 @@||s.youtube.com^
+
+#Instagram
+#......Needed for app content......
+@@||instagram.feau1-1.fna.fbcdn.net^
+#......Main domain that must be allowed.....
+@@||i.instagram.com^$important
