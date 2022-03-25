@@ -1,0 +1,37 @@
+#....Personal Whitelist by MCXSecure
+#....Websites and Domains that I have personally allowed through my own research and testing
+#....This list may not fully allow all sites, domains and services that are needed for funtionality! Please use at your own risk!
+#....Designed for adguard-dns1 & adguard-dns2
+
+#....Copyright 2022© MCXSecure
+#....Last updated 3/25/2022
+
+#...........List begins here.............
+#My Domains
+@@||mcxsecure.net^$important
+@@||rtfmsecure.net^$important
+#Snapchat
+# Needed for Snapchat Storys
+@@||cf-st.sc-cdn.net^
+# Needed for SnapMap content & stories
+@@||s.sc-cdn.net^
+# Needed to display accounts & profiles data
+@@||shows.snapchat.com^
+# Needed to display accounts & profiles
+@@||pro-accounts.snapchat.com^
+# Needed for Shopping in app
+@@||app.snapchat.com^
+# Main domain must be Allowed
+@@||aws.api.snapchat.com^
+# Main domain must be Allowed 
+@@||gcp.api.snapchat.com^
+#### Needed for basic app functions including displaying snapmap content as well as stories, discover & subscriptions
+#@@||us-east1-aws.api.snapchat.com^ 
+# Needed especially for loading stories, discover, & subscribes content
+@@||us-central1-gcp.api.snapchat.com^ # Needed especially for loading stories, discover, & subscribes content
+# Needed for Snaps & Chat
+@@||us-east4-gcp.api.snapchat.com^
+
+#YouTube
+# Needed for YouTube video/music watch history
+@@||s.youtube.com^
