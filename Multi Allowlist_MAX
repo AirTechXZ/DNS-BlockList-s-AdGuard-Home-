@@ -2,19 +2,22 @@
 #....Websites and Domains that I have personally allowed through my own research and testing
 #....This list may not fully allow all sites, domains and services that are needed for funtionality! Please use at your own risk!
 #....Designed for adguard-dns1 & adguard-dns2
-
+#
+#
 #....Copyright 2022© MCXSecure
 #....Last updated 3/25/2022
-
+#
+#
 #...........List begins here.............
+#
 #........My Domains
 @@||mcxsecure.net^$important
 @@||rtfmsecure.net^$important
-
-
-
-
-
+#
+#
+#
+#
+#
 #............SNAPCHAT
 #...⇊..Needed for Snapchat Storys..⇊
 @@||cf-st.sc-cdn.net^
@@ -45,19 +48,19 @@
 #
 #...⇊..Needed for Snaps & Chat..⇊
 @@||us-east4-gcp.api.snapchat.com^
-
-
-
-
-
+#
+#
+#
+#
+#
 #..................YOUTUBE
 # Needed for YouTube video/music watch history
 @@||s.youtube.com^
-
-
-
-
-
+#
+#
+#
+#
+#
 #.................INSTAGRAM
 #...⇊..Needed for app content..⇊
 @@||instagram.feau1-1.fna.fbcdn.net^
