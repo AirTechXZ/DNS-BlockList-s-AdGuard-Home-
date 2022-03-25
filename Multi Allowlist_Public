@@ -47,19 +47,22 @@
 #
 #...⇊..Needed for adding friends..⇊
 @@||mvm.snapchat.com^
-
-
-
-
-
+#
+#...⇊..Needed for Read status, user is typing notification, and emoji chat status..⇊
+@@||aws.duplex.snapchat.com^
+#
+#
+#
+#
+#
 #..................YOUTUBE
 # Needed for YouTube video/music watch history
 @@||s.youtube.com^
-
-
-
-
-
+#
+#
+#
+#
+#
 #.................INSTAGRAM
 #...⇊..Needed for app content..⇊
 @@||instagram.feau1-1.fna.fbcdn.net^
