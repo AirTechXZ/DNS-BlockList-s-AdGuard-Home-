@@ -24,7 +24,10 @@
 @@||aws.api.snapchat.com^
 # Main domain must be Allowed 
 @@||gcp.api.snapchat.com^
-#@@||us-central1-gcp.api.snapchat.com^ # Needed especially for loading stories, discover, & subscribes content
+#### Needed for basic app functions including displaying snapmap content as well as stories, discover & subscriptions
+#@@||us-east1-aws.api.snapchat.com^ 
+# Needed especially for loading stories, discover, & subscribes content
+@@||us-central1-gcp.api.snapchat.com^ # Needed especially for loading stories, discover, & subscribes content
 # Needed for Snaps & Chat
 @@||us-east4-gcp.api.snapchat.com^
 
