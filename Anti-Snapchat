@@ -1,11 +1,23 @@
-topic-sticker-vending-us-east-1.snapchat.com
-zendesk1.snapchat.com
-adsapi2.snapchat.com
-app-analytics-v2.snapchat.com
-adsapi3.snapchat.com
-tr6.snapchat.com
-snapcamera.snapchat.com
-subscriptions-beta.snapchat.com
+#.......Blocklist for Snapchat & Snapchat services by MCXSecure. This list completely blocks snapchat
+#
+#.......Currently in Beta.....not avalible for use
+#
+#.......Copyright© 2022 MCXSecure
+#.......Updated 3/26/2022
+#
+#
+#
+#
+#............List begins here.............
+#
+||topic-sticker-vending-us-east-1.snapchat.com
+||zendesk1.snapchat.com
+||adsapi2.snapchat.com
+||app-analytics-v2.snapchat.com
+||adsapi3.snapchat.com
+||tr6.snapchat.com
+||snapcamera.snapchat.com
+||subscriptions-beta.snapchat.com
 iosbeta.snapchat.com
 static.snapchat.com
 jaguar-prod.snapchat.com
