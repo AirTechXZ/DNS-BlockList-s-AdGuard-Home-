@@ -2,18 +2,19 @@
 #....Websites and Domains that I have personally allowed through my own research and testing
 #....This list may not fully allow all sites, domains and services that are needed for funtionality! Please use at your own risk!
 #....Designed for adguard-dns3, adguard-dns4, & adguard-dns5
-
+#
 #....Copyright 2022© MCXSecure
 #....Last updated 3/25/2022
-
+#
 #...........List begins here.............
 #My Domains
 @@||mcxsecure.net^$important
 @@||rtfmsecure.net^$important
-
-
-
-
+#
+#
+#
+#
+#
 #............SNAPCHAT
 #...⇊..Needed for Snapchat Storys..⇊
 @@||cf-st.sc-cdn.net^
@@ -69,3 +70,23 @@
 #
 #...⇊..Main domain that must be allowed..⇊
 @@||i.instagram.com^$important
+#
+#
+#
+#
+#
+#.............TIKTOK
+@@||v16m.tiktokcdn-us.com^$important
+#...⇊..Needed for signup verification..⇊
+@@||verification16-platform-useast5.us.tiktokv.com^$important
+#
+@@||p19-security-va.ibyteimg.com^$important
+@@||sf16-scmcdn-va.ibytedtos.com^$important
+@@||api16-normal-ag-useast5.us.tiktokv.com^$important
+@@||p19.tiktokcdn-us.com^$important
+@@||p16-amd-va.tiktokcdn.com^$important
+@@||p16.tiktokcdn-us.com^$important
+@@||vcs16-platform-useast5.us.tiktokv.com^$important
+@@||api16-core-useast5.us.tiktokv.com^$important
+@@||gecko16-platform-useast5.us.tiktokv.com^$important
+@@||p19-sign.tiktokcdn-us.com^$important
