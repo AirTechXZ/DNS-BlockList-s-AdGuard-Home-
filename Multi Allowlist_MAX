@@ -94,3 +94,20 @@
 @@||api16-core-useast5.us.tiktokv.com^
 @@||gecko16-platform-useast5.us.tiktokv.com^
 @@||p19-sign.tiktokcdn-us.com^
+@@||api16-core-c-useast1a.tiktokv.com^$important
+@@||mon-va.tiktokv.com^$important
+@@||tnc16-platform-useast1a.tiktokv.com^$important
+@@||v25.tiktokcdn-us.com^$important
+@@||frontier.us.tiktokv.com^$important
+@@||api16-normal-useast5.us.tiktokv.com^$important
+@@||mon16-platform-useast5.us.tiktokv.com^$important
+@@||v19.tiktokcdn-us.com^$important
+#
+#
+#
+#
+#
+#............FACEBOOK
+#
+#...⇊..Needed for Facebook groups..⇊
+@@||graph.facebook.com^
