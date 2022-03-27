@@ -10,7 +10,7 @@
 #
 #...........List begins here.............
 #
-#........My Domains
+#My Domains
 @@||mcxsecure.net^$important
 @@||rtfmsecure.net^$important
 #
@@ -52,6 +52,9 @@
 #...⇊..Needed for adding friends..⇊
 @@||mvm.snapchat.com^
 #
+#...⇊..Needed for Read status, user is typing notification, and emoji chat status..⇊
+@@||aws.duplex.snapchat.com^
+#
 #
 #
 #
@@ -70,3 +73,24 @@
 #
 #...⇊..Main domain that must be allowed..⇊
 @@||i.instagram.com^$important
+#
+#
+#
+#
+#
+#.............TIKTOK
+#
+#...⇊..Needed for signup verification..⇊
+@@||verification16-platform-useast5.us.tiktokv.com^
+@@||p19-security-va.ibyteimg.com^
+#
+#
+@@||sf16-scmcdn-va.ibytedtos.com^
+@@||api16-normal-ag-useast5.us.tiktokv.com^
+@@||p19.tiktokcdn-us.com^
+@@||p16-amd-va.tiktokcdn.com^
+@@||p16.tiktokcdn-us.com^
+@@||vcs16-platform-useast5.us.tiktokv.com^
+@@||api16-core-useast5.us.tiktokv.com^
+@@||gecko16-platform-useast5.us.tiktokv.com^
+@@||p19-sign.tiktokcdn-us.com^
