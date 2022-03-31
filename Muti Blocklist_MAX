@@ -22,7 +22,15 @@
 #
 #
 #
-#.............Anti-Tracking & Telementry
+#.............TIKTOK
+||log-va.tiktokv.com^$important
+||tiktokcdn.com^
+#
+#
+#
+#
+#
+#.............Anti-Tracking, Telementry & Other
 ||ttl1-31104000.dns-server.idealeer.com^$important
 ||cryptauthenrollment.googleapis.com^
 ||cryptauthdevicesync.googleapis.com^
@@ -37,4 +45,3 @@
 ||rawtelemetry-east.servicebus.windows.net^
 ||graph.microsoft.com^$important
 ||launches.appsflyer.com^$important
-||log-va.tiktokv.com^$important
