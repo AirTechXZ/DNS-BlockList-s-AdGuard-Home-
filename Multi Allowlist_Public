@@ -116,5 +116,6 @@
 #
 #..........GOOGLE
 #....Needed to Intstall Apps from play store
-@@||gvt2.com
-@@||gvt1.com
+#@@||beacons.gvt2.com
+#@@||beacons.gcp.gvt2.com
+#@@||gvt1.com
