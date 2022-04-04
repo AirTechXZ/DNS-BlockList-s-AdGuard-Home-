@@ -40,8 +40,8 @@
 #...⇊..Main domain to GCP servers must be Allowed..⇊
 @@||gcp.api.snapchat.com^
 #
-#### Needed for basic app functions including displaying snapmap content as well as stories, discover & subscriptions
-#@@||us-east1-aws.api.snapchat.com^ 
+#....Needed for saving chats and snaps I think
+@@||us-east1-aws.api.snapchat.com^ 
 #
 #...⇊..Needed especially for loading stories, discover, & subscribes content..⇊
 @@||us-central1-gcp.api.snapchat.com^
