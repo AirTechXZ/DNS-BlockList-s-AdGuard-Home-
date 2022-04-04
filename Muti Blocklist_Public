@@ -36,6 +36,11 @@
 #
 #
 #
+#..........FACEBOOK
+||b-graph.facebook.com^$important
+#
+#
+#
 #.............Anti-Tracking & Telementry
 ||ttl1-31104000.dns-server.idealeer.com^$important
 ||cryptauthenrollment.googleapis.com^
