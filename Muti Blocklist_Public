@@ -5,7 +5,7 @@
 #
 #
 #....Copyright 2022© MCXSecure
-#....Last updated 3/25/2022
+#....Last updated 4/6/2022
 #
 #
 #...........List begins here.............
@@ -54,3 +54,4 @@
 ||i.pinimg.com^$important
 #
 ||rawtelemetry-east.servicebus.windows.net^
+||rawtelemetry-west.servicebus.windows.net^
