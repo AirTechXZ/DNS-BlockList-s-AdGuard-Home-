@@ -5,7 +5,7 @@
 #
 #
 #....Copyright 2022© MCXSecure
-#....Last updated 3/25/2022
+#....Last updated 4/6/2022
 #
 #
 #...........List begins here.............
@@ -54,6 +54,9 @@
 #
 #...⇊..Needed for Read status, user is typing notification, and emoji chat status..⇊
 @@||aws.duplex.snapchat.com^
+#
+#......Needed for emojis and stickers
+@@||gcs.sc-cdn.net^
 #
 #
 #
