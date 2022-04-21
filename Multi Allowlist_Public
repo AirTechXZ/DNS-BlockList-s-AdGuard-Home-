@@ -138,6 +138,14 @@
 #
 #
 #
-#.................Pinterest
+#.................PINTEREST
 #......Need for app content
 @@||s.pinimg.com^
+#
+#
+#
+#
+#
+#..........SPOTIFY
+#........Needed for music browsing
+@@||spclient.wg.spotify.com^
