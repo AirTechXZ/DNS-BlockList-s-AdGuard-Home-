@@ -151,3 +151,5 @@
 #..........SPOTIFY
 #........Needed for music browsing
 @@||spclient.wg.spotify.com^
+#
+@@||pixel.spotify.com^
