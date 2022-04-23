@@ -48,6 +48,7 @@
 #
 #...⇊..Needed for Snaps & Chat..⇊
 @@||us-east4-gcp.api.snapchat.com^
+@@||bolt-gcdn.sc-cdn.net^
 #
 #...⇊..Needed for adding friends..⇊
 @@||mvm.snapchat.com^
@@ -57,6 +58,7 @@
 #
 #......Needed for emojis and stickers
 @@||gcs.sc-cdn.net^
+#
 #
 #
 #
