@@ -54,3 +54,4 @@
 #
 ||rawtelemetry-east.servicebus.windows.net^
 ||rawtelemetry-west.servicebus.windows.net^
+||edge.microsoft.com^
