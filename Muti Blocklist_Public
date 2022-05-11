@@ -56,7 +56,7 @@
 ||rawtelemetry-west.servicebus.windows.net^
 ||edge.microsoft.com^
 ||footprint.net^
-||graph.microsoft.com^$important
+#||graph.microsoft.com^ # needed for Microsoft Power Automate
 ||google-analytics.com^
 ||localytics.com^
 ||activity.windows.com^
