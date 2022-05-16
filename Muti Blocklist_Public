@@ -30,6 +30,7 @@
 ||log53-normal-c-alisg.tiktokv.com^
 ||log16-applog-useast5.us.tiktokv.com
 ||log-va.tiktokv.com^
+||log*-*.tiktokv.com^
 #
 #
 #
@@ -62,3 +63,4 @@
 ||activity.windows.com^
 ||edge.activity.windows.com^
 ||inmobi.com
+||mobiletelemetry.ebay.com^
