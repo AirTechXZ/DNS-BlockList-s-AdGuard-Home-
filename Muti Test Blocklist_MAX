@@ -27,6 +27,7 @@
 ||tiktokcdn.com^
 ||ibyteimg.com^
 ||ibytedtos.com
+||log*-*.tiktokv.com^
 #
 #
 #
@@ -56,9 +57,5 @@
 ||localytics.com^
 ||google-analytics.com^
 ||moatads.com^
-||clients0.google.com^
-||clients1.google.com^
-||clients2.google.com^
-||clients3.google.com^
-||clients4.google.com^
-||clients5.google.com^
+||clients*-*.google.com^
+
