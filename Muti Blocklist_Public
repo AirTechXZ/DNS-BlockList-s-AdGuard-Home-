@@ -38,6 +38,7 @@
 #
 #..........FACEBOOK
 ||b-graph.facebook.com^$important
+||graph.facebook.com^$important
 #
 #
 #
