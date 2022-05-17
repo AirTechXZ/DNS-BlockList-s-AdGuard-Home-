@@ -110,6 +110,9 @@
 #...⇊..Needed for Facebook groups..⇊
 #@@||graph.facebook.com^
 @@||edge-mqtt.facebook.com^|
+@@||b-www.facebook.com^|
+@@||b-api.facebook.com^|
+@@||api.facebook.com^|
 #
 #
 #
