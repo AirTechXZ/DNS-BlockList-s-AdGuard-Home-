@@ -1,7 +1,7 @@
 #....Personal Allowlist by MCXSecure
 #....Websites and Domains that I have personally allowed through my own research and testing
 #....This list may not fully allow all sites, domains and services that are needed for funtionality! Please use at your own risk!
-#....Designed for adguard-dns3, adguard-dns4, adguard-dns5, & adguard-dns6
+#....Designed for adguard-dns3, adguard-dns4, adguard-dns5, adguard-dns6, adguard-dns7, adguard-dns8, adguard-dns9
 #
 #
 #....Copyright 2022© MCXSecure
@@ -122,7 +122,6 @@
 #@@||graph.facebook.com^
 #
 @@||www.facebook.com^
-@@||facebook.com^
 @@||static.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
 @@||scontent.feau1-1.fna.fbcdn.net^
@@ -153,7 +152,7 @@
 #
 #..........SPOTIFY
 #........Needed for music browsing
-@@||spclient.wg.spotify.com^
+@@||spclient.wg.spotify.com^# NSA tracker...but needed for music browsing
 #
 @@||pixel.spotify.com^
 @@||pixel-static.spotify.com^
