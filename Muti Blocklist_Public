@@ -39,6 +39,7 @@
 #..........FACEBOOK
 ||b-graph.facebook.com^$important
 ||graph.facebook.com^$important
+||graph-fallback.facebook.com^|
 #
 #
 #
