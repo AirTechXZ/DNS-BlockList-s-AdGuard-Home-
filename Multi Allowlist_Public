@@ -122,11 +122,12 @@
 #@@||graph.facebook.com^
 #
 @@||www.facebook.com^
+@@||gateway.facebook.com^
 @@||static.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
 @@||scontent.feau1-1.fna.fbcdn.net^
 @@||video.feau1-1.fna.fbcdn.net^
-@@||edge-chat.facebook.com^$
+@@||edge-chat.facebook.com^
 @@||web-chat-e2ee.facebook.com^
 @@||web.whatsapp.com^
 #
