@@ -139,9 +139,9 @@
 @@||api.facebook.com^
 @@||edge-mqtt.facebook.com^
 @@||lookaside.facebook.com^
-@@||b-graph.facebook.com^
-@@||graph.fbpigeon.com^
-@@||graph-fallback.facebook.com^
+#@@||b-graph.facebook.com^
+#@@||graph.fbpigeon.com^
+#@@||graph-fallback.facebook.com^
 #
 #
 #
