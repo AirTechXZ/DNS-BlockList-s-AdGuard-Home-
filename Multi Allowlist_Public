@@ -138,8 +138,8 @@
 @@||m.facebook.com^
 @@||api.facebook.com^
 @@||edge-mqtt.facebook.com^
-@@||b-api.facebook.com^
-@@||b-www.facebook.com^
+@@||lookaside.facebook.com^
+@@||b-graph.facebook.com^
 #
 #
 #
