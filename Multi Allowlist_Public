@@ -131,7 +131,11 @@
 @@||web-chat-e2ee.facebook.com^
 @@||web.whatsapp.com^
 @@||external.feau1-1.fna.fbcdn.net^
-@@||facebook.com^|
+#@@||facebook.com^|
+@@||mqtt-mini.facebook.com^
+@@||web.facebook.com^
+@@||lm.facebook.com^
+@@||m.facebook.com^
 #
 #
 #
