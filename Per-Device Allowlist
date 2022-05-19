@@ -1,1 +1,23 @@
+#.....Per-Device Allowlist by MCXSecure
+#.....This list is desigened to allow certian devices/people accees to sites and services that they personally want whitelisted. 
+#....Overrrides normal configurations located in blocklists and additional whitelist rules for all MCX-DNS Servers except the endpoints
+#
+#...........Copyright© MCXSecure
+#..........Updated..5/19/2022
 
+
+#.............Jelo's Galaxy S9+
+@@||graph.facebook.com^$client='Jelo\'s Galaxy S9+'
+#
+#
+#
+#
+#.............Hannah's Galaxy S9+
+@@||graph.facebook.com^$client='Hannah\'s Galaxy A51'
+#
+#
+#
+#
+#.............Mia's OnePlus Nord CE..........
+#
+#
