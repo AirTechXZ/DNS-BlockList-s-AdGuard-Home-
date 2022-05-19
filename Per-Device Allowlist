@@ -4,20 +4,43 @@
 #
 #...........Copyright© MCXSecure
 #..........Updated..5/19/2022
-
-
-#.............Jelo's Galaxy S9+
+#
+#
+#.........List begins here>>>>
+#
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#........<<<<<<<Jelo's Galaxy S9+>>>>>>>>
 @@||graph.facebook.com^$client='Jelo\'s Galaxy S9+'
 #
 #
 #
-#
-#.............Hannah's Galaxy S9+
+#.....<<<<<<<<Hannah's Galaxy S9+>>>>>>>>>>
 @@||graph.facebook.com^$client='Hannah\'s Galaxy A51'
 #
 #
 #
+#........<<<<<<<<Mia's OnePlus Nord CE>>>>>>>>>
 #
-#.............Mia's OnePlus Nord CE..........
+#..............SPOTIFY..........
+#..........Needed for Music browsing....!..Flagged as a NSA TRacker..!
+@@||spclient.wg.spotify.com^$client='OnePlus Nord CE'
+@@||spclient.wg.spotify.com^$client='Mia\'s OnePlus CE'
 #
+#......Needed for Premium Subcription.....!..Flagged as Tracking URL's..!
+@@||sentry.io^$client='OnePlus Nord CE'
+@@||sentry.io^$client='Mia\'s OnePlus CE'
+@@||cdn.cookielaw.org^$client='OnePlus Nord CE'
+@@||cdn.cookielaw.org^$client='Mia\'s OnePlus CE'
 #
+#..................PINTEREST
+#........Needed for app content....!..Flagged as Tracker..!
+@@||s.pinimg.com^$client='OnePlus Nord CE'
+@@||s.pinimg.com^$client='Mia\'s OnePlus CE'
+
+
+
+
+
+
+
+
