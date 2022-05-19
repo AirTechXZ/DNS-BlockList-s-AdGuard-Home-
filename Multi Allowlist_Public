@@ -120,6 +120,11 @@
 #
 #...⇊..Needed for Facebook groups..⇊
 #@@||graph.facebook.com^
+#@@||b-graph.facebook.com^
+#@@||graph.fbpigeon.com^
+#@@||graph-fallback.facebook.com^
+@@||graph.facebook.com^$client='Jelo\'s Galaxy S9+'
+@@||graph.facebook.com^$client='Hannah\'s Galaxy A51'
 #
 @@||www.facebook.com^
 @@||gateway.facebook.com^
@@ -139,9 +144,6 @@
 #@@||api.facebook.com^
 @@||edge-mqtt.facebook.com^
 @@||lookaside.facebook.com^
-#@@||b-graph.facebook.com^
-#@@||graph.fbpigeon.com^
-#@@||graph-fallback.facebook.com^
 #
 #
 #
@@ -165,12 +167,15 @@
 #
 #..........SPOTIFY
 #........Needed for music browsing
-@@||spclient.wg.spotify.com^|
+#@@||spclient.wg.spotify.com^|
+@@||spclient.wg.spotify.com^$client='OnePlus Nord CE'
+@@||spclient.wg.spotify.com^$client='Mia\'s OnePlus CE'
 #
 @@||pixel.spotify.com^
 @@||pixel-static.spotify.com^
 @@||api-partner.spotify.com^
 #
+#......Needed for Premium Subcription.....
 @@||sentry.io^
 @@||cdn.cookielaw.org^
 #
