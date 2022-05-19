@@ -159,7 +159,7 @@
 #
 #.................PINTEREST
 #......Need for app content
-@@||s.pinimg.com^
+#@@||s.pinimg.com^
 #
 #
 #
@@ -168,16 +168,14 @@
 #..........SPOTIFY
 #........Needed for music browsing
 #@@||spclient.wg.spotify.com^|
-@@||spclient.wg.spotify.com^$client='OnePlus Nord CE'
-@@||spclient.wg.spotify.com^$client='Mia\'s OnePlus CE'
 #
 @@||pixel.spotify.com^
 @@||pixel-static.spotify.com^
 @@||api-partner.spotify.com^
 #
 #......Needed for Premium Subcription.....
-@@||sentry.io^
-@@||cdn.cookielaw.org^
+#@@||sentry.io^
+#@@||cdn.cookielaw.org^
 #
 #
 #
