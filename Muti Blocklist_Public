@@ -38,7 +38,7 @@
 #
 #..........FACEBOOK
 ||b-graph.facebook.com^$important
-||graph.facebook.com^$important
+157.240.18.9 graph.facebook.com^$important
 ||graph-fallback.facebook.com^|
 #
 #
