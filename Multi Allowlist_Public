@@ -119,7 +119,7 @@
 #............FACEBOOK
 #
 #...⇊..Needed for Facebook groups..⇊
-@@||graph.facebook.com^
+#@@||graph.facebook.com^
 #
 @@||www.facebook.com^
 @@||gateway.facebook.com^
@@ -136,7 +136,7 @@
 @@||web.facebook.com^
 @@||lm.facebook.com^
 @@||m.facebook.com^
-@@||api.facebook.com^
+#@@||api.facebook.com^
 @@||edge-mqtt.facebook.com^
 @@||lookaside.facebook.com^
 #@@||b-graph.facebook.com^
