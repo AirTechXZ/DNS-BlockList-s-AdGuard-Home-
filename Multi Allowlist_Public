@@ -123,8 +123,6 @@
 #@@||b-graph.facebook.com^
 #@@||graph.fbpigeon.com^
 #@@||graph-fallback.facebook.com^
-@@||graph.facebook.com^$client='Jelo\'s Galaxy S9+'
-@@||graph.facebook.com^$client='Hannah\'s Galaxy A51'
 #
 @@||www.facebook.com^
 @@||gateway.facebook.com^
@@ -188,8 +186,8 @@
 #
 #
 #...........OTHER
-@@||rumble.com^$important'
+@@||rumble.com^
 @@||www.adventistchristiancoaching.com
 @@||www.campusmultiplicationnetwork.com
-#@@||r20.rs6.net^$important
+#@@||r20.rs6.net^
 
