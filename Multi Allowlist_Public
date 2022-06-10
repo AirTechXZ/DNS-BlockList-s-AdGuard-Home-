@@ -4,11 +4,11 @@
 #....Designed for adguard-dns3, adguard-dns4, adguard-dns5, adguard-dns6, adguard-dns7, adguard-dns8, adguard-dns9
 #
 #
-#....Copyright 2022© MCXSecure
-#....Last updated 4/6/2022
+#....Copyright © 2022 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
+#....Last updated 6/10/2022
 #
 #
-#...........List begins here.............
+#<<<<<<<<<<<<<<<<<<<<List begins here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #
 #My Domains
 @@||mcxsecure.net^$important
@@ -18,7 +18,7 @@
 #
 #
 #
-#............SNAPCHAT
+#............SNAPCHAT..............................................................
 #...⇊..Needed for Snapchat Storys..⇊
 @@||cf-st.sc-cdn.net^
 #
@@ -60,19 +60,12 @@
 @@||gcs.sc-cdn.net^
 #
 #
-#
-#
-#
-#
-#..................YOUTUBE
+#..................YOUTUBE..................................................................
 # Needed for YouTube video/music watch history
 @@||s.youtube.com^
 #
 #
-#
-#
-#
-#.................INSTAGRAM
+#.................INSTAGRAM.................................................................
 #...⇊..Needed for app content..⇊
 @@||instagram.feau1-1.fna.fbcdn.net^
 #
@@ -85,11 +78,7 @@
 @@||scontent.cdninstagram.com^
 #
 #
-#
-#
-#
-#.............TIKTOK
-#
+#.............TIKTOK...................................................................
 #...⇊..Needed for signup verification..⇊
 @@||verification16-platform-useast5.us.tiktokv.com^
 @@||p19-security-va.ibyteimg.com^
@@ -113,11 +102,7 @@
 @@||mon16-platform-useast5.us.tiktokv.com^
 #
 #
-#
-#
-#
-#............FACEBOOK
-#
+#............FACEBOOK................................................
 #...⇊..Needed for Facebook groups..⇊
 #@@||graph.facebook.com^
 #@@||b-graph.facebook.com^
@@ -144,8 +129,7 @@
 @@||lookaside.facebook.com^
 #
 #
-#
-#..........GOOGLE
+#..........GOOGLE............................................................
 #....Needed to Intstall Apps from play store
 #@@||beacons.gvt2.com
 #@@||beacons.gcp.gvt2.com
@@ -154,21 +138,15 @@
 @@||chat-pa.clients6.google.com^
 @@||signaler-pa.clients6.google.com^
 @@||people-pa.clients6.google.com^
-#@@||clients6.google.com
+@@||clients6.google.com
 #
 #
-#
-#
-#
-#.................PINTEREST
+#.................PINTEREST....................................................
 #......Need for app content
 #@@||s.pinimg.com^
 #
 #
-#
-#
-#
-#..........SPOTIFY
+#..........SPOTIFY.............................................................
 #........Needed for music browsing
 #@@||spclient.wg.spotify.com^|
 #
@@ -183,14 +161,14 @@
 #
 #
 #
-#........Banking......
+#........Banking..................................................................
 #
 @@||trinity.platform.intuit.com^
 @@||apppersonalization.api.intuit.com^
 #
 #
 #
-#...........OTHER
+#...........OTHER..................................................................
 @@||rumble.com^
 @@||www.adventistchristiancoaching.com
 @@||www.campusmultiplicationnetwork.com
