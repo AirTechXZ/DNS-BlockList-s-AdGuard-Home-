@@ -21,7 +21,7 @@
 #
 #........<<<<<<<<Mia's OnePlus Nord CE>>>>>>>>>
 #
-#..............SPOTIFY..........
+#..............SPOTIFY.................................................................................
 #..........Needed for Music browsing....!..Flagged as a NSA TRacker..!
 @@||spclient.wg.spotify.com^$client='OnePlus Nord CE'
 @@||spclient.wg.spotify.com^$client='Mia\'s OnePlus CE'
@@ -32,7 +32,7 @@
 @@||cdn.cookielaw.org^$client='OnePlus Nord CE'
 @@||cdn.cookielaw.org^$client='Mia\'s OnePlus CE'
 #
-#..................PINTEREST
+#..................PINTEREST.............................................................................
 #........Needed for app content....!..Flagged as Tracker..!
 @@||s.pinimg.com^$client='OnePlus Nord CE'
 @@||s.pinimg.com^$client='Mia\'s OnePlus CE'
