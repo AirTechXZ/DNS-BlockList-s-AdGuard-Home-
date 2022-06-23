@@ -2,7 +2,7 @@
 #.....This list is desigened to allow certian devices/people accees to sites and services that they personally want whitelisted. Overrides normal configurations located in blocklists and additional whitelist rules for all MCX-DNS Servers except the endpoints
 #
 #..........Copyright © 2022 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#..........Updated..6/10/2022
+#..........Updated..6/23/2022
 #
 #
 #.........List begins here>>>>
@@ -11,16 +11,32 @@
 #........<<<<<<<Jelo's Galaxy S9+>>>>>>>>
 @@||graph.facebook.com^$client='Jelo\'s Galaxy S9+'
 #
+#.......<<<<<<<<<Alex's OnePlus 8>>>>>>>>>>>>>>>>
+#.........................SPOTIFY.........................................................................
+#..........Needed for Music browsing....!..Flagged as a NSA TRacker..!
+@@||spclient.wg.spotify.com^$client='OnePlus 8'
+@@||spclient.wg.spotify.com^$client='Alex\'s OnePlus 8'
+#
+#......Needed for Premium Subcription.....!..Flagged as Tracking URL's..!
+@@||sentry.io^$client='OnePlus 8'
+@@||sentry.io^$client='Alex\'s OnePlus 8'
+@@||cdn.cookielaw.org^$client='OnePlus 8'
+@@||cdn.cookielaw.org^$client='Alex\'s OnePlus 8'
+#
+#
 #
 #
 #.....<<<<<<<<Hannah's Galaxy S9+>>>>>>>>>>
 @@||graph.facebook.com^$client='Hannah\'s Galaxy A51'
 #
+#....<<<<<<Hannah's iPhone-SE>>>>>>>>>
+@@||graph.facebook.com^$client='Hannahs iPhone SE'
 #
 #
-#........<<<<<<<<Mia's OnePlus Nord CE>>>>>>>>>
 #
-#..............SPOTIFY.................................................................................
+#
+#........<<<<<<<<<<<<<<Mia's OnePlus Nord CE>>>>>>>>>
+#.........................SPOTIFY.........................................................................
 #..........Needed for Music browsing....!..Flagged as a NSA TRacker..!
 @@||spclient.wg.spotify.com^$client='OnePlus Nord CE'
 @@||spclient.wg.spotify.com^$client='Mia\'s OnePlus CE'
