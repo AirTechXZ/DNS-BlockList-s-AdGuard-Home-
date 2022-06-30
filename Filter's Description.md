@@ -42,3 +42,8 @@ This file trys to describe the purpose of diffrent domains according to what I h
 
 ......Needed for emojis and stickers
 @@||gcs.sc-cdn.net^
+
+.......................................................................................................
+
+#...Tracker but needed for paired
+@@||api.lab.amplitude.com^
