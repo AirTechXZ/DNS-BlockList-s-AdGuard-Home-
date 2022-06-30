@@ -44,6 +44,8 @@ This file trys to describe the purpose of diffrent domains according to what I h
 @@||gcs.sc-cdn.net^
 
 .......................................................................................................
+#.Needed for pinterest app content....!..Flagged as Tracker..!
+@@||s.pinimg.com^$
 
 #...Tracker but needed for paired
 @@||api.lab.amplitude.com^
