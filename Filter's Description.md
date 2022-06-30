@@ -45,8 +45,8 @@ This file trys to describe the purpose of diffrent domains according to what I h
 
 .......................................................................................................
 
-#.Needed for pinterest app content....!..Flagged as Tracker..!
 @@||s.pinimg.com^$
+#.Needed for pinterest app content....!..Flagged as Tracker..!
 
-#...Tracker but needed for paired
 @@||api.lab.amplitude.com^
+#...Tracker but needed for paired
