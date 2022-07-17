@@ -50,6 +50,8 @@
 @@||scontent-ort2-2.cdninstagram.com^
 @@||scontent.cdninstagram.com^
 @@||scontent-yyz1-1.cdninstagram.com^
+@@||scontent-dfw5-1.cdninstagram.com^
+@@||scontent-dfw5-2.cdninstagram.com^
 #
 #
 #.............TIKTOK...................................................................
@@ -150,5 +152,6 @@
 @@||www.campusmultiplicationnetwork.com
 @@||cdn.zoom.us
 @@||api.lab.amplitude.com^
+@@||push-notifications.nextcloud.com^
 #@@||r20.rs6.net^
 
