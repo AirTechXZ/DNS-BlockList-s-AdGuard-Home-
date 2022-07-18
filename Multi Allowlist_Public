@@ -144,6 +144,7 @@
 #
 @@||trinity.platform.intuit.com^
 @@||apppersonalization.api.intuit.com^
+@@||www2.bac-assets.com^
 #
 #
 #
@@ -155,5 +156,6 @@
 @@||api.lab.amplitude.com^
 @@||push-notifications.nextcloud.com^
 @@||click.discord.com^
+@@||graphql.api.dailymotion.com^
 #@@||r20.rs6.net^
 
