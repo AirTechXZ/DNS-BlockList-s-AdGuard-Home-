@@ -45,6 +45,7 @@
 #
 #...⇊..Main domain that must be allowed..⇊
 @@||i.instagram.com^$important
+@@||www.instagram.com^
 #
 #....Needed for other App content.....
 @@||scontent-lga3-1.cdninstagram.com^
