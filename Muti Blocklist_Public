@@ -49,9 +49,12 @@
 ||cryptauthdevicesync.googleapis.com^
 ||phonedeviceverification-pa.googleapis.com^
 #
-#...⇊..blocks location sent to google..⇊
+#...⇊..blocks possible location sent to tech...⇊
 ||userlocation.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
+||inference.location.live.net^
+||geomobileservices-pa.googleapis.com^
+||location.services.mozilla.com^
 #
 #...⇊..blocks a pinterest tracker..⇊
 ||i.pinimg.com^$important
@@ -77,7 +80,5 @@
 ||clients6.google.com^
 ||iphone-ld.apple.com^
 ||auditrecording-pa.googleapis.com^
-||geomobileservices-pa.googleapis.com^
-||location.services.mozilla.com^
 ||cognito-identity.*.amazonaws.com^
 
