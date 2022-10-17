@@ -51,6 +51,7 @@
 #
 #...⇊..blocks location sent to google..⇊
 ||userlocation.googleapis.com^
+||semanticlocation-pa.googleapis.com^
 #
 #...⇊..blocks a pinterest tracker..⇊
 ||i.pinimg.com^$important
@@ -78,3 +79,5 @@
 ||auditrecording-pa.googleapis.com^
 ||geomobileservices-pa.googleapis.com^
 ||location.services.mozilla.com^
+||cognito-identity.*.amazonaws.com^
+
