@@ -81,4 +81,6 @@
 ||iphone-ld.apple.com^
 ||auditrecording-pa.googleapis.com^
 ||cognito-identity.*.amazonaws.com^
-
+||smartscreen-prod.microsoft.com^
+||api.extra-awesome-confidence.net^
+||auth.extra-awesome-confidence.net^
