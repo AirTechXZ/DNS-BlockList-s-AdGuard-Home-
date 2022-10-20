@@ -5,7 +5,7 @@
 #
 #
 #....Copyright 2022© MCXSecure
-#....Last updated 10/16/2022
+#....Last updated 10/20/2022
 #
 #
 #...........List begins here.............
@@ -82,5 +82,6 @@
 ||auditrecording-pa.googleapis.com^
 ||cognito-identity.*.amazonaws.com^
 ||smartscreen-prod.microsoft.com^
+||nav.smartscreen.microsoft.com^
 ||api.extra-awesome-confidence.net^
 ||auth.extra-awesome-confidence.net^
