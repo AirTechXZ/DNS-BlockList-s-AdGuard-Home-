@@ -90,4 +90,4 @@
 ||dns.google.com^
 ||dns.msftncsi.com^
 ||*.smartscreen.microsoft.com^
-||mitmdetection.services.mozilla.com^
+#||mitmdetection.services.mozilla.com^
