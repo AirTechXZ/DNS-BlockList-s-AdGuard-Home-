@@ -5,7 +5,7 @@
 #
 #
 #....Copyright © 2022 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 10/31/2022
+#....Last updated 11/8/2022
 #
 #
 #<<<<<<<<<<<<<<<<<<<<List begins here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -32,6 +32,7 @@
 @@||mvm.snapchat.com^
 @@||aws.duplex.snapchat.com^
 @@||gcs.sc-cdn.net^
+@@||accounts.snap.com^
 #
 #
 #..................YOUTUBE..................................................................
