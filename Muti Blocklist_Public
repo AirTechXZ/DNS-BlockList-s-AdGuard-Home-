@@ -57,7 +57,7 @@
 ||location.services.mozilla.com^
 #
 #...⇊..blocks a pinterest tracker..⇊
-||i.pinimg.com^$important
+#||i.pinimg.com^$important
 #
 ||rawtelemetry-east.servicebus.windows.net^
 ||rawtelemetry-west.servicebus.windows.net^
@@ -89,5 +89,6 @@
 ||securitydomain-pa.googleapis.com^
 ||dns.google.com^
 ||dns.msftncsi.com^
+||id.google.com
 ||*.smartscreen.microsoft.com^
 #||mitmdetection.services.mozilla.com^
