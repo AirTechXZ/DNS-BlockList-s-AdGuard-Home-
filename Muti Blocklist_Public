@@ -43,33 +43,7 @@
 #
 #
 #
-#.............Anti-Tracking & Telementry
-||ttl1-31104000.dns-server.idealeer.com^$important
-||cryptauthenrollment.googleapis.com^
-||cryptauthdevicesync.googleapis.com^
-||phonedeviceverification-pa.googleapis.com^
-#
-#...⇊..blocks possible location sent to tech...⇊
-||userlocation.googleapis.com^
-||semanticlocation-pa.googleapis.com^
-||inference.location.live.net^
-||geomobileservices-pa.googleapis.com^
-||location.services.mozilla.com^
-#
-#...⇊..blocks a pinterest tracker..⇊
-#||i.pinimg.com^$important
-#
-||rawtelemetry-east.servicebus.windows.net^
-||rawtelemetry-west.servicebus.windows.net^
-||edge.microsoft.com^
-||footprint.net^
-#||graph.microsoft.com^ # needed for Microsoft Power Automate
-||google-analytics.com^
-||localytics.com^
-||activity.windows.com^
-||edge.activity.windows.com^
-||inmobi.com
-||mobiletelemetry.ebay.com^
+#.......................GOOGLE.....................
 ||clients*.google.com^
 ||clients0.google.com^
 ||clients1.google.com^
@@ -78,17 +52,64 @@
 ||clients4.google.com^
 ||clients5.google.com^
 ||clients6.google.com^
+||id.google.com
+||auditrecording-pa.googleapis.com^
+||google-analytics.com^
+||cryptauthenrollment.googleapis.com^
+||cryptauthdevicesync.googleapis.com^
+||dns.google.com^
+||securitydomain-pa.googleapis.com^
+#
+#
+#................................MICROSOFT................
+||smartscreen-prod.microsoft.com^
+||nav.smartscreen.microsoft.com^
+||edge.microsoft.com^
+||dns.msftncsi.com^
+||*.smartscreen.microsoft.com^
+#||graph.microsoft.com^ # needed for Microsoft Power Automate
+#
+#
+#
+#.............Anti-Tracking & Telementry
+||ttl1-31104000.dns-server.idealeer.com^$important
+||cryptauthenrollment.googleapis.com^
+||cryptauthdevicesync.googleapis.com^
+||phonedeviceverification-pa.googleapis.com^
+||rawtelemetry-east.servicebus.windows.net^
+||rawtelemetry-west.servicebus.windows.net^
+||footprint.net^
+||google-analytics.com^
+||localytics.com^
+||activity.windows.com^
+||edge.activity.windows.com^
 ||iphone-ld.apple.com^
 ||auditrecording-pa.googleapis.com^
 ||cognito-identity.*.amazonaws.com^
-||smartscreen-prod.microsoft.com^
-||nav.smartscreen.microsoft.com^
+||id.google.com
+#
+#
+#...⇊..blocks possible location sent to tech...⇊
+||userlocation.googleapis.com^
+||semanticlocation-pa.googleapis.com^
+||inference.location.live.net^
+||geomobileservices-pa.googleapis.com^
+||location.services.mozilla.com^
+#
+#
+#...⇊..blocks a pinterest tracker..⇊
+#||i.pinimg.com^$important
+#
+#
+#.......................NRD's/Fake DOMAINS...............
 ||api.extra-awesome-confidence.net^
 ||auth.extra-awesome-confidence.net^
+||api.highly-fantastic-defense.net^
+#
+#
+#
+#...............................OTHER..............................
+||inmobi.com
+||mobiletelemetry.ebay.com^
 ||analytics-tcp.mintegral.net^
-||securitydomain-pa.googleapis.com^
-||dns.google.com^
-||dns.msftncsi.com^
-||id.google.com
-||*.smartscreen.microsoft.com^
 #||mitmdetection.services.mozilla.com^
