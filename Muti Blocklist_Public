@@ -11,16 +11,12 @@
 #...........List begins here.............
 #
 #
-#
-#
-#.............SNAPCHAT
+#...............SNAPCHAT.................................................
 ||gtq6.sct.sc-prod.net^
 #
 #
 #
-#
-#
-#............TIKTOK
+#............TIKTOK.......................................................
 ||log53-normal-c-useast1a.tiktokv.com^
 ||log19-applog-useast5.us.tiktokv.com^
 ||rtlog19-applog-useast5.us.tiktokv.com^
@@ -36,14 +32,14 @@
 #
 #
 #
-#..........FACEBOOK
+#..........FACEBOOK..............................................................
 ||b-graph.facebook.com^$important
 ||graph.facebook.com^$important
 ||graph-fallback.facebook.com^|
 #
 #
 #
-#.......................GOOGLE.....................
+#.......................GOOGLE...................................................
 ||clients*.google.com^
 ||clients0.google.com^
 ||clients1.google.com^
@@ -58,10 +54,11 @@
 ||cryptauthenrollment.googleapis.com^
 ||cryptauthdevicesync.googleapis.com^
 ||dns.google.com^
+||dns.google^
 ||securitydomain-pa.googleapis.com^
 #
 #
-#................................MICROSOFT................
+#................................MICROSOFT......................................................
 ||smartscreen-prod.microsoft.com^
 ||nav.smartscreen.microsoft.com^
 ||edge.microsoft.com^
@@ -71,7 +68,7 @@
 #
 #
 #
-#.............Anti-Tracking & Telementry
+#.............Anti-Tracking & Telementry..................................................................
 ||ttl1-31104000.dns-server.idealeer.com^$important
 ||cryptauthenrollment.googleapis.com^
 ||cryptauthdevicesync.googleapis.com^
@@ -87,6 +84,14 @@
 ||auditrecording-pa.googleapis.com^
 ||cognito-identity.*.amazonaws.com^
 ||id.google.com
+||metrics.icloud.com^
+||settings-win.data.microsoft.com^
+||*.data.microsoft.com
+||g.live.com^
+||*.marketingcloudapis.com^
+||marketingcloudapis.com^
+||*.datacloudstat.com^
+||datacloudstat.com^
 #
 #
 #...⇊..blocks possible location sent to tech...⇊
@@ -101,15 +106,28 @@
 #||i.pinimg.com^$important
 #
 #
-#.......................NRD's/Fake DOMAINS...............
+#..............................DNS Providers.....................................
+||dns.alidns.com^
+||doh.dns.apple.com^
+||dns.apple.com^
+||*.dns.apple.com^
+#
+#
+#
+#.......................NRD's/Fake DOMAINS.......................................
 ||api.extra-awesome-confidence.net^
 ||auth.extra-awesome-confidence.net^
 ||api.highly-fantastic-defense.net^
+||s.pcgameboostdrivers.com^
+||tiesmissionaryprefecture.com^
+||api.extremely-great-obscurity.org^
 #
 #
 #
-#...............................OTHER..............................
+#...............................OTHER.............................................
 ||inmobi.com
 ||mobiletelemetry.ebay.com^
 ||analytics-tcp.mintegral.net^
 #||mitmdetection.services.mozilla.com^
+||allawnos.com
+||*.allawnos.com
