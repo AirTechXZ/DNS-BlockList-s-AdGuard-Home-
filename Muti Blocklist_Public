@@ -48,7 +48,8 @@
 ||clients4.google.com^
 ||clients5.google.com^
 ||clients6.google.com^
-||id.google.com
+||id.google.com^
+||dl.google.com^
 ||auditrecording-pa.googleapis.com^
 ||google-analytics.com^
 ||cryptauthenrollment.googleapis.com^
@@ -129,6 +130,6 @@
 ||mobiletelemetry.ebay.com^
 ||analytics-tcp.mintegral.net^
 #||mitmdetection.services.mozilla.com^
-||allawnos.com
-||*.allawnos.com
-||*.a2z.com
+||allawnos.com^
+||*.allawnos.com^
+||*.a2z.com^
