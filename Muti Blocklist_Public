@@ -69,6 +69,7 @@
 ||*.smartscreen.microsoft.com^
 ||data.microsoft.com^$important
 ||*.data.microsoft.com^$important
+||settings-win.data.microsoft.com^$important
 #||graph.microsoft.com^ # needed for Microsoft Power Automate
 #
 #
@@ -90,8 +91,6 @@
 ||cognito-identity.*.amazonaws.com^
 ||id.google.com
 ||metrics.icloud.com^
-||settings-win.data.microsoft.com^
-||*.data.microsoft.com
 ||g.live.com^
 ||*.marketingcloudapis.com^
 ||marketingcloudapis.com^
