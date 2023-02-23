@@ -93,13 +93,17 @@
 ||marketingcloudapis.com^
 ||*.datacloudstat.com^
 ||datacloudstat.com^
+||heytapmobile.com^
+||oppomobile.com^
+||heytapmobi.com^
+||heytapdl.com^
 #
 #
 #...⇊..blocks possible location sent to tech...⇊
 ||userlocation.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
 ||inference.location.live.net^
-||geomobileservices-pa.googleapis.com^
+#||geomobileservices-pa.googleapis.com^
 ||location.services.mozilla.com^
 #
 #
