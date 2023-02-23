@@ -57,6 +57,8 @@
 ||dns.google.com^
 ||dns.google^
 ||securitydomain-pa.googleapis.com^
+||www.googleadservices.com^$important
+||googleadservices.com^$important
 #
 #
 #................................MICROSOFT......................................................
@@ -65,6 +67,8 @@
 ||edge.microsoft.com^
 ||dns.msftncsi.com^
 ||*.smartscreen.microsoft.com^
+||data.microsoft.com^$important
+||*.data.microsoft.com^$important
 #||graph.microsoft.com^ # needed for Microsoft Power Automate
 #
 #
@@ -97,6 +101,11 @@
 ||oppomobile.com^
 ||heytapmobi.com^
 ||heytapdl.com^
+||static.ads.brave.com^
+||cdn.opecloud.com^
+||opecloud.com^
+||mywallet.ads.brave.com^
+#||tl.foxbusiness.com^
 #
 #
 #...⇊..blocks possible location sent to tech...⇊
@@ -126,6 +135,9 @@
 ||s.pcgameboostdrivers.com^
 ||tiesmissionaryprefecture.com^
 ||api.extremely-great-obscurity.org^
+||api.wholly-splendid-cover.net^
+||ideallynested.com^
+||hothairzys.com^
 #
 #
 #
