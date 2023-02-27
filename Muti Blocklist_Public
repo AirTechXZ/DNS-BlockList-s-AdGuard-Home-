@@ -113,6 +113,9 @@
 ||inference.location.live.net^
 #||geomobileservices-pa.googleapis.com^
 ||location.services.mozilla.com^
+||locationhistoryaggregates-pa.googleapis.com^
+||staging-locationhistory-pa.sandbox.googleapis.com^
+||locationhistory-pa.googleapis.com^
 #
 #
 #...⇊..blocks a pinterest tracker..⇊
