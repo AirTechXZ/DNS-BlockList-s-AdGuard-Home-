@@ -127,6 +127,10 @@
 ||doh.dns.apple.com^
 ||dns.apple.com^
 ||*.dns.apple.com^
+||-dnsotls-ds.metric.gstatic.com^$important
+||dnsotls-ds.metric.gstatic.com^$important
+||*.dnsotls-ds.metric.gstatic.com^$important
+||*-dnsotls-ds.metric.gstatic.com^$important
 #
 #
 #
