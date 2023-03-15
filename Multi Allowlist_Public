@@ -147,7 +147,7 @@
 #
 #..........SPOTIFY.............................................................
 #........Needed for music browsing
-@@||spclient.wg.spotify.com^|$stealth
+@@||spclient.wg.spotify.com^|
 #
 @@||pixel.spotify.com^
 @@||pixel-static.spotify.com^
