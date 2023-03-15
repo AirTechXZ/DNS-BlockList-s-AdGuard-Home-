@@ -42,11 +42,11 @@
 #
 #.................INSTAGRAM.................................................................
 #...⇊..Needed for app content..⇊
-@@||instagram.feau1-1.fna.fbcdn.net^
+@@||instagram.feau1-1.fna.fbcdn.net^$stealth
 #
 #...⇊..Main domain that must be allowed..⇊
-@@||i.instagram.com^$important
-@@||www.instagram.com^
+@@||i.instagram.com^$important,stealth
+@@||www.instagram.com^$stealth
 #
 #....Needed for other App content.....
 #@@||scontent-lga3-1.cdninstagram.com^
@@ -66,9 +66,9 @@
 #@@||scontent-ord5-2.cdninstagram.com^
 @@||*.cdninstagram.com^$stealth
 @@||scontent*-*.cdninstagram.com^$stealth
-@@||gateway.instagram.com^
-@@||*.xx.fbcdn.net^
-@@||edge-chat.instagram.com^
+@@||gateway.instagram.com^$stealth
+@@||*.xx.fbcdn.net^$stealth
+@@||edge-chat.instagram.com^$stealth
 #
 #
 #.............TIKTOK...................................................................
@@ -102,27 +102,27 @@
 #@@||graph.fbpigeon.com^
 #@@||graph-fallback.facebook.com^
 #
-@@||www.facebook.com^
-@@||gateway.facebook.com^
-@@||static.xx.fbcdn.net^
-@@||scontent.xx.fbcdn.net^
-@@||scontent.feau1-1.fna.fbcdn.net^
-@@||video.feau1-1.fna.fbcdn.net^
-@@||edge-chat.facebook.com^
-@@||web-chat-e2ee.facebook.com^
-@@||web.whatsapp.com^
-@@||external.feau1-1.fna.fbcdn.net^
+@@||www.facebook.com^$stealth
+@@||gateway.facebook.com^$stealth
+@@||static.xx.fbcdn.net^$stealth
+@@||scontent.xx.fbcdn.net^$stealth
+@@||scontent.feau1-1.fna.fbcdn.net^$stealth
+@@||video.feau1-1.fna.fbcdn.net^$stealth
+@@||edge-chat.facebook.com^$stealth
+@@||web-chat-e2ee.facebook.com^$stealth
+@@||web.whatsapp.com^$stealth
+@@||external.feau1-1.fna.fbcdn.net^$stealth
 #@@||facebook.com^|
-@@||mqtt-mini.facebook.com^
-@@||web.facebook.com^
-@@||lm.facebook.com^
-@@||m.facebook.com^
+@@||mqtt-mini.facebook.com^$stealth
+@@||web.facebook.com^$stealth
+@@||lm.facebook.com^$stealth
+@@||m.facebook.com^$stealth
 #@@||api.facebook.com^
-@@||edge-mqtt.facebook.com^
-@@||lookaside.facebook.com^
-@@||rupload.facebook.com^
-@@||upload.facebook.com^
-@@||business.facebook.com^
+@@||edge-mqtt.facebook.com^$stealth
+@@||lookaside.facebook.com^$stealth
+@@||rupload.facebook.com^$stealth
+@@||upload.facebook.com^$stealth
+@@||business.facebook.com^$stealth
 #
 #
 #..........GOOGLE............................................................
@@ -147,7 +147,7 @@
 #
 #..........SPOTIFY.............................................................
 #........Needed for music browsing
-@@||spclient.wg.spotify.com^|
+@@||spclient.wg.spotify.com^|$stealth
 #
 @@||pixel.spotify.com^
 @@||pixel-static.spotify.com^
