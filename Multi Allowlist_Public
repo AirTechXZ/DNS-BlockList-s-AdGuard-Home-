@@ -51,7 +51,7 @@
 #....Needed for other App content.....
 #@@||scontent-lga3-1.cdninstagram.com^
 #@@||scontent-ort2-2.cdninstagram.com^
-#@@||scontent.cdninstagram.com^
+@@||scontent.cdninstagram.com^$stealth
 #@@||scontent-yyz1-1.cdninstagram.com^
 #@@||scontent-dfw5-1.cdninstagram.com^
 #@@||scontent-dfw5-2.cdninstagram.com^
@@ -65,7 +65,7 @@
 #@@||scontent-mia3-1.cdninstagram.com^
 #@@||scontent-ord5-2.cdninstagram.com^
 @@||*.cdninstagram.com^$stealth
-@@||scontent*-*.cdninstagram.com^$stealth
+#@@||scontent*-*.cdninstagram.com^$stealth
 @@||gateway.instagram.com^$stealth
 @@||*.xx.fbcdn.net^$stealth
 @@||edge-chat.instagram.com^$stealth
