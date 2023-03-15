@@ -65,7 +65,7 @@
 #@@||scontent-mia3-1.cdninstagram.com^
 #@@||scontent-ord5-2.cdninstagram.com^
 #@@||*.cdninstagram.com^$stealth
-@@||scontent*.cdninstagram.com^$stealth
+@@||scontent*-*.cdninstagram.com^$stealth
 @@||gateway.instagram.com^
 @@||*.xx.fbcdn.net^
 @@||edge-chat.instagram.com^
