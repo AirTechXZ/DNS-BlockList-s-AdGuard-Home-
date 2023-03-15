@@ -11,6 +11,8 @@
 #...........List begins here.............
 #
 #
+#............MCXSECURE Test Domain..........
+||blocktest.mcxsecure.net
 #...............SNAPCHAT.................................................
 ||gtq6.sct.sc-prod.net^
 #
@@ -71,6 +73,7 @@
 ||*.data.microsoft.com^$important
 ||settings-win.data.microsoft.com^$important
 #||graph.microsoft.com^ # needed for Microsoft Power Automate
+||js.monitor.azure.com^
 #
 #
 #
