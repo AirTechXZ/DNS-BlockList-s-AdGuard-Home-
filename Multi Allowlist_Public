@@ -161,7 +161,7 @@
 #
 #
 #
-#........Banking..................................................................
+#.............Banking..................................................................
 #
 @@||trinity.platform.intuit.com^
 @@||apppersonalization.api.intuit.com^
@@ -178,6 +178,8 @@
 @@||webflow.refersion.com^
 #@@||www-tc.pbs.org^
 #@@||jaws-prod.cdn.pbs.org^
+#
+#
 #...........OTHER..................................................................
 @@||rumble.com^
 @@||www.adventistchristiancoaching.com
@@ -191,3 +193,5 @@
 @@||jobinterviewtool.infusionsoft.com^
 #@@||r20.rs6.net^
 @@||www.uhaul.com^
+@@||search.brave.com^
+@@||startpage.com^
