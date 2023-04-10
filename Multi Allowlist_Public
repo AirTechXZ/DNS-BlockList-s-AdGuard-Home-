@@ -163,12 +163,14 @@
 #
 #
 #
-#.............Banking..................................................................
+#.............FINANCIAL..................................................................
 #
 @@||trinity.platform.intuit.com^
 @@||apppersonalization.api.intuit.com^
 @@||www2.bac-assets.com^
 @@||sci.digitalinsight.com^
+@@||support.creditkarma.com^
+#@@||sponge.creditkarma.com
 #@@||api.mixpanel.com^
 #@@||decide.mixpanel.com^
 #
