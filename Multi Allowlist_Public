@@ -170,6 +170,11 @@
 @@||www2.bac-assets.com^
 @@||sci.digitalinsight.com^
 @@||support.creditkarma.com^
+@@||ctg-apps.intuitcdn.net^
+#.........................In Question................................
+#@@||rum.api.intuit.com^$important
+#@@||dpm.demdex.net^$important
+#@@||eventbus.intuit.com^$important
 #@@||sponge.creditkarma.com
 #@@||api.mixpanel.com^
 #@@||decide.mixpanel.com^
