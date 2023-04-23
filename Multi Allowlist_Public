@@ -188,7 +188,11 @@
 #@@||www-tc.pbs.org^
 #@@||jaws-prod.cdn.pbs.org^
 #
-#
+#......................RESEARCH...............................................
+@@||search.brave.com^
+@@||www.startpage.com^$stealth
+@@||*-browse.startpage.com^$stealth
+@@||*.startpage.com^$stealth
 #...........OTHER..................................................................
 @@||rumble.com^
 @@||www.adventistchristiancoaching.com
@@ -202,8 +206,6 @@
 @@||jobinterviewtool.infusionsoft.com^
 #@@||r20.rs6.net^
 @@||www.uhaul.com^
-@@||search.brave.com^
-@@||startpage.com^
 @@||api.onesignal.com^
 @@||www.etsy.com^
 @@||tiles.mapillary.com^
