@@ -1,0 +1,14 @@
+...MCXSecure IntraDNS hostnames list for local devices
+.....Updated 4/29/2023.....
+#
+#
+#
+10.1.1.1 airguard-g1.mcxintra.net
+10.1.1.3 omadactrl.airguard-mgmt-n1.mcxintra.net
+10.1.1.9 cpe210north1.airguard-mgmt-n1.mcxintra.net
+10.1.1.10 cpe210west1.airguard-mgmt-n1.mcxintra.net
+10.1.1.11 cpe510west1.airguard-mgmt-n1.mcxintra.net
+10.1.2.15 rpiserver1391.airguard-iot-n1.mcxintra.net
+10.1.2.20 cloudserver-l.airguard-iot-n1.mcxintra.net
+#
+146.166.35.15 rpiserver1314.airguard-iot-n3.mcxintra.net
