@@ -5,7 +5,7 @@
 #
 #
 #....Copyright © 2023 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 4/8/2023
+#....Last updated 6/9/2023
 #
 #
 #...........List begins here.............
@@ -124,6 +124,9 @@
 ||locationhistoryaggregates-pa.googleapis.com^
 ||staging-locationhistory-pa.sandbox.googleapis.com^
 ||locationhistory-pa.googleapis.com^
+||firebaseremoteconfigrealtime.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||mdh-pa.googleapis.com^
 #
 #
 #...⇊..blocks a pinterest tracker..⇊
@@ -164,3 +167,4 @@
 ||*.allawnos.com^
 ||*.a2z.com^
 ||logfiles.zoom.us^
+||mobile-data.onetrust.io^
