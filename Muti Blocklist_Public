@@ -63,6 +63,12 @@
 ||googleadservices.com^$important
 ||clientservices.googleapis.com^
 ||footprints-pa.googleapis.com^
+||firebaseremoteconfigrealtime.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseperusertopics-pa.googleapis.com^
+||mdh-pa.googleapis.com^
+||infinitedata-pa.googleapis.com^
 #
 #
 #................................MICROSOFT......................................................
@@ -117,6 +123,7 @@
 #
 #...⇊..blocks possible location sent to tech...⇊
 ||userlocation.googleapis.com^
+||userlocation.googleapis.com.home^
 ||semanticlocation-pa.googleapis.com^
 ||inference.location.live.net^
 #||geomobileservices-pa.googleapis.com^
@@ -124,11 +131,11 @@
 ||locationhistoryaggregates-pa.googleapis.com^
 ||staging-locationhistory-pa.sandbox.googleapis.com^
 ||locationhistory-pa.googleapis.com^
-||firebaseremoteconfigrealtime.googleapis.com^
-||firebaseremoteconfig.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseperusertopics-pa.googleapis.com^
-||mdh-pa.googleapis.com^
+||edgelocation.ivanticloud.com^
+||devicelocation.ngxcld.com^
+||location.pulse.ivantilabs.com^
+||geolocation-recommendations.shopifyapps.com^
+||openlocation-dra.platform.dbankcloud.com^
 #
 #
 #...⇊..blocks a pinterest tracker..⇊
