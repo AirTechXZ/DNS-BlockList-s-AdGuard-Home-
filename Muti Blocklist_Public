@@ -5,7 +5,7 @@
 #
 #
 #....Copyright © 2023 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 6/9/2023
+#....Last updated 7/4/2023
 #
 #
 #...........List begins here.............
@@ -119,6 +119,8 @@
 ||api.fbanalytics.org^
 ||aefd.nelreports.net^
 #||tl.foxbusiness.com^
+||*.xtracloud.net^
+||xtracloud.net^
 #
 #
 #...⇊..blocks possible location sent to tech...⇊
