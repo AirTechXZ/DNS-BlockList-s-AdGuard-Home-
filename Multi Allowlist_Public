@@ -5,7 +5,7 @@
 #
 #
 #....Copyright © 2023 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 4/18/2023
+#....Last updated 7/20/2023
 #
 #
 #<<<<<<<<<<<<<<<<<<<<List begins here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -69,6 +69,8 @@
 @@||gateway.instagram.com^
 @@||*.xx.fbcdn.net^
 @@||edge-chat.instagram.com^
+@@||z-p42-chat-e2ee-ig.facebook.com^
+@@||cdn.fbsbx.com^
 #
 #
 #.............TIKTOK...................................................................
