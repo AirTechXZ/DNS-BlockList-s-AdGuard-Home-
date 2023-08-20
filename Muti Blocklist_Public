@@ -5,7 +5,7 @@
 #
 #
 #....Copyright © 2023 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 7/4/2023
+#....Last updated 8/19/2023
 #
 #
 #...........List begins here.............
@@ -129,7 +129,7 @@
 ||userlocation.googleapis.com.home^
 ||semanticlocation-pa.googleapis.com^
 ||inference.location.live.net^
-#||geomobileservices-pa.googleapis.com^
+||geomobileservices-pa.googleapis.com^
 ||location.services.mozilla.com^
 ||locationhistoryaggregates-pa.googleapis.com^
 ||staging-locationhistory-pa.sandbox.googleapis.com^
