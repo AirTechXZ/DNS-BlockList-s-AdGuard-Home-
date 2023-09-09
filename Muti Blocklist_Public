@@ -74,6 +74,8 @@
 ||clienttracing-pa.googleapis.com^
 ||quake-pa.googleapis.com^
 ||wmt-ssmp-prod.firebaseio.com^
+||firebaseio.com^
+||*.firebaseio.com^
 #
 #
 #................................MICROSOFT......................................................
