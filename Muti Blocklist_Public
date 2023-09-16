@@ -76,6 +76,7 @@
 ||clienttracing-pa.googleapis.com^
 ||quake-pa.googleapis.com^
 ||voilatile-pa.googleapis.com^
+||memex-pa.googleapis.com^
 ||wmt-ssmp-prod.firebaseio.com^
 ||firebaseio.com^
 ||*.firebaseio.com^
