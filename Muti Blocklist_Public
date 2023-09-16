@@ -38,6 +38,7 @@
 ||b-graph.facebook.com^$important
 ||graph.facebook.com^$important
 ||graph-fallback.facebook.com^|
+||netseer-ipaddr-assoc.xz.fbcdn.net^
 #
 #
 #
