@@ -69,6 +69,7 @@
 ||firebaseremoteconfig.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseperusertopics-pa.googleapis.com^
+||federatedcompute-pa.googleapis.com^
 ||mdh-pa.googleapis.com^
 ||infinitedata-pa.googleapis.com^
 ||securetoken.googleapis.com^
@@ -81,6 +82,7 @@
 ||wmt-ssmp-prod.firebaseio.com^
 ||firebaseio.com^
 ||*.firebaseio.com^
+federatedcompute-pa.googleapis.com
 #
 #
 #................................MICROSOFT......................................................
