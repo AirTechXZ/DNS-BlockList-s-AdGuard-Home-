@@ -199,3 +199,5 @@ federatedcompute-pa.googleapis.com
 ||catalog.gamepass.com^
 ||developer.api.walmart.com^
 ||firestore.googleapis.com^
+||*.datadog.pool.ntp.org^
+||datadog.pool.ntp.org^
