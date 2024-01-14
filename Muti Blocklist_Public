@@ -196,7 +196,7 @@ federatedcompute-pa.googleapis.com
 ||*.a2z.com^
 ||logfiles.zoom.us^
 ||mobile-data.onetrust.io^
-||catalog.gamepass.com^
+#||catalog.gamepass.com^
 ||developer.api.walmart.com^
 ||firestore.googleapis.com^
 ||*.datadog.pool.ntp.org^
