@@ -126,6 +126,7 @@
 #@@||api.facebook.com^
 @@||edge-mqtt.facebook.com^
 @@||lookaside.facebook.com^
+@@||lookaside.fbsbx.com^
 @@||rupload.facebook.com^
 @@||upload.facebook.com^
 @@||business.facebook.com^
