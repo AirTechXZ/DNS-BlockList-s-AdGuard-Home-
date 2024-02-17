@@ -1,63 +1,119 @@
 #....Personal Blocklist by MCXSecure
 #....Websites and Domains that I have personally blocked through my own research and testing
 #....This list may break sites or services on devices! Please use at your own risk!
-#....Designed for adgurd-dns1 & adguard-dns2
+#....Designed for all AirLink DNS Servers
 #
-#
-#....Copyright 2022© MCXSecure
-#....Last updated 5/9/2022
-#
+#....Copyright 2024© MCXSecure
+#....Last updated 2/17/2024..........
 #
 #...........List begins here.............
-#
-#
-#
 #
 #.............SNAPCHAT
 ||gcs.sc-cdn.net^
 ||bolt-gcdn.sc-cdn.net^
 ||gtq6.sct.sc-prod.net^
 #
-#
-#
-#
-#
-#.............TIKTOK
+#.............TIKTOK.................................................................
 ||log-va.tiktokv.com^
 ||tiktokcdn.com^
 ||ibyteimg.com^
 ||ibytedtos.com
 ||log*-*.tiktokv.com^
+||log53-normal-c-useast1a.tiktokv.com^
+||log19-applog-useast5.us.tiktokv.com^
+||rtlog19-applog-useast5.us.tiktokv.com^
+||rtlog19-platform-useast5.us.tiktokv.com^
+||log3-normal-c-useast1a.tiktokv.com^
+||log3-normal-c-alisg.tiktokv.com^
+||log53-normal-c-alisg.tiktokv.com^
+||log16-applog-useast5.us.tiktokv.com
+||log-va.tiktokv.com^
+||log*-*.tiktokv.com^
 #
+#...⇊..blocks possible location sent to tech...⇊...............................................
+||userlocation.googleapis.com^
+||userlocation.googleapis.com.home^
+||semanticlocation-pa.googleapis.com^
+||inference.location.live.net^
+||geomobileservices-pa.googleapis.com^
+||location.services.mozilla.com^
+||locationhistoryaggregates-pa.googleapis.com^
+||staging-locationhistory-pa.sandbox.googleapis.com^
+||locationhistory-pa.googleapis.com^
+||edgelocation.ivanticloud.com^
+||devicelocation.ngxcld.com^
+||location.pulse.ivantilabs.com^
+||geolocation-recommendations.shopifyapps.com^
+||openlocation-dra.platform.dbankcloud.com^
+||location.uku-prd-edge.ivantilabs.com^
+||prd.location.enterprise.com^
+||location*-*.us*-*.elb.amazonaws.com
 #
+#...⇊..blocks a pinterest tracker..⇊...................................................
+||i.pinimg.com^$important
 #
+#..............................DNS Providers.....................................
+||dns.alidns.com^
+||doh.dns.apple.com^
+||dns.apple.com^
+||*.dns.apple.com^
+||-dnsotls-ds.metric.gstatic.com^$important
+||dnsotls-ds.metric.gstatic.com^$important
+||*.dnsotls-ds.metric.gstatic.com^$important
+||*-dnsotls-ds.metric.gstatic.com^$important
 #
-#
-#.............Anti-Tracking, Telementry & Other
+#.............Anti-Tracking & Telementry..................................................................
 ||ttl1-31104000.dns-server.idealeer.com^$important
 ||cryptauthenrollment.googleapis.com^
 ||cryptauthdevicesync.googleapis.com^
 ||phonedeviceverification-pa.googleapis.com^
-#
-#...⇊..blocks location sent to google..⇊
-||userlocation.googleapis.com^
-#
-#...⇊..blocks a pinterest tracker..⇊
-||i.pinimg.com^$important
-#
 ||rawtelemetry-east.servicebus.windows.net^
-||graph.microsoft.com^$important
-||launches.appsflyer.com^$important
-||v25.tiktokcdn-us.com^
+||rawtelemetry-west.servicebus.windows.net^
 ||footprint.net^
-||edge.microsoft.com^
+||google-analytics.com^
+||localytics.com^
 ||activity.windows.com^
 ||edge.activity.windows.com^
+||iphone-ld.apple.com^
+||auditrecording-pa.googleapis.com^
+||cognito-identity.*.amazonaws.com^
+||id.google.com
+||metrics.icloud.com^
+||g.live.com^
+||*.marketingcloudapis.com^
+||marketingcloudapis.com^
+||*.datacloudstat.com^
+||datacloudstat.com^
+||heytapmobile.com^
+||oppomobile.com^
+||heytapmobi.com^
+||heytapdl.com^
+||static.ads.brave.com^
+||cdn.opecloud.com^
+||opecloud.com^
+||mywallet.ads.brave.com^
+||api.fbanalytics.org^
+||aefd.nelreports.net^
+||tl.foxbusiness.com^
+||*.xtracloud.net^
+||xtracloud.net^
 ||inmobi.com^
-||localytics.com^
-||google-analytics.com^
-||moatads.com^
-||clients*-*.google.com^
+#
+#................................MICROSOFT......................................................
+||smartscreen-prod.microsoft.com^
+||nav.smartscreen.microsoft.com^
+||edge.microsoft.com^
+||dns.msftncsi.com^
+||*.smartscreen.microsoft.com^
+||data.microsoft.com^$important
+||*.data.microsoft.com^$important
+||settings-win.data.microsoft.com^$important
+#||graph.microsoft.com^ # needed for Microsoft Power Automate
+||js.monitor.azure.com^
+||inputsuggestions.msdxcdn.microsoft.com^
+#
+#.......................GOOGLE...................................................
+||clients*.google.com^
 ||clients0.google.com^
 ||clients1.google.com^
 ||clients2.google.com^
@@ -65,6 +121,61 @@
 ||clients4.google.com^
 ||clients5.google.com^
 ||clients6.google.com^
-||clients7.google.com^
+||id.google.com^
+||dl.google.com^
+||auditrecording-pa.googleapis.com^
+||google-analytics.com^
+||cryptauthenrollment.googleapis.com^
+||cryptauthdevicesync.googleapis.com^
+||dns.google.com^
+||dns.google^
+||securitydomain-pa.googleapis.com^
+||www.googleadservices.com^$important
+||googleadservices.com^$important
+||clientservices.googleapis.com^
+||footprints-pa.googleapis.com^
+||firebaseremoteconfigrealtime.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseperusertopics-pa.googleapis.com^
+||federatedcompute-pa.googleapis.com^
+||mdh-pa.googleapis.com^
+||infinitedata-pa.googleapis.com^
+||securetoken.googleapis.com^
+||xgapromomanager-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^
+||quake-pa.googleapis.com^
+||voilatile-pa.googleapis.com^
+||memex-pa.googleapis.com^
+||jnn-pa.googleapis.com^
+||wmt-ssmp-prod.firebaseio.com^
+||firebaseio.com^
+||*.firebaseio.com^
+||federatedcompute-pa.googleapis.com^
+||google-analytics.com^
+||moatads.com^
+#
+#..........FACEBOOK..............................................................
+||b-graph.facebook.com^$important
+||graph.facebook.com^$important
+||graph-fallback.facebook.com^|
+||netseer-ipaddr-assoc.xz.fbcdn.net^
+||*-netseer-ipaddr-assoc.xy.fbcdn.net^
+#
+#...............................OTHER.............................................
+||inmobi.com
+||mobiletelemetry.ebay.com^
+||analytics-tcp.mintegral.net^
+#||mitmdetection.services.mozilla.com^
+||allawnos.com^
+||*.allawnos.com^
+||*.a2z.com^
+||logfiles.zoom.us^
+||mobile-data.onetrust.io^
+||catalog.gamepass.com^
+||developer.api.walmart.com^
+||firestore.googleapis.com^
+||*.datadog.pool.ntp.org^
+||datadog.pool.ntp.org^
 
 
