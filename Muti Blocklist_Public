@@ -44,16 +44,7 @@
 #
 #
 #.......................GOOGLE...................................................
-||clients*.google.com^
-||clients0.google.com^
-||clients1.google.com^
-||clients2.google.com^
-||clients3.google.com^
-||clients4.google.com^
-||clients5.google.com^
-||clients6.google.com^
 ||id.google.com^
-||dl.google.com^
 ||auditrecording-pa.googleapis.com^
 ||google-analytics.com^
 ||cryptauthenrollment.googleapis.com^
@@ -82,7 +73,7 @@
 ||wmt-ssmp-prod.firebaseio.com^
 ||firebaseio.com^
 ||*.firebaseio.com^
-federatedcompute-pa.googleapis.com
+||federatedcompute-pa.googleapis.com^
 #
 #
 #................................MICROSOFT......................................................
@@ -132,7 +123,6 @@ federatedcompute-pa.googleapis.com
 ||mywallet.ads.brave.com^
 ||api.fbanalytics.org^
 ||aefd.nelreports.net^
-#||tl.foxbusiness.com^
 ||*.xtracloud.net^
 ||xtracloud.net^
 #
@@ -196,7 +186,6 @@ federatedcompute-pa.googleapis.com
 ||*.a2z.com^
 ||logfiles.zoom.us^
 ||mobile-data.onetrust.io^
-#||catalog.gamepass.com^
 ||developer.api.walmart.com^
 ||firestore.googleapis.com^
 ||*.datadog.pool.ntp.org^
