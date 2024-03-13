@@ -5,7 +5,7 @@
 #
 #
 #....Copyright © 2024 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 1/13/2024
+#....Last updated 3/13/2024
 #
 #
 #...........List begins here.............
@@ -14,7 +14,7 @@
 #............MCXSECURE Test Domain..........
 #||airlinkblocktest.net
 #...............SNAPCHAT.................................................
-||gtq6.sct.sc-prod.net^
+#
 #
 #
 #
@@ -37,7 +37,7 @@
 #..........FACEBOOK..............................................................
 ||b-graph.facebook.com^$important
 ||graph.facebook.com^$important
-||graph-fallback.facebook.com^|
+#||graph-fallback.facebook.com^|
 ||netseer-ipaddr-assoc.xz.fbcdn.net^
 ||*-netseer-ipaddr-assoc.xy.fbcdn.net^
 #
@@ -108,7 +108,6 @@
 ||cognito-identity.*.amazonaws.com^
 ||id.google.com
 ||metrics.icloud.com^
-||g.live.com^
 ||*.marketingcloudapis.com^
 ||marketingcloudapis.com^
 ||*.datacloudstat.com^
