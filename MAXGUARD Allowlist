@@ -1,11 +1,11 @@
 #....Personal Whitelist by MCXSecure
 #....Websites and Domains that I have personally allowed through my own research and testing
 #....This list may not fully allow all sites, domains and services that are needed for funtionality! Please use at your own risk!
-#....Designed for adguard-dns1 & adguard-dns2
+#....Designed for the MAXGUARD DNS Network
 #
 #
-#....Copyright 2022© MCXSecure
-#....Last updated 3/25/2022
+#....Copyright 2024© MCXSecure
+#....Last updated 3/13/2024
 #
 #
 #...........List begins here.............
@@ -73,7 +73,31 @@
 #
 #...⇊..Main domain that must be allowed..⇊
 @@||i.instagram.com^$important
-#
+#@@||scontent-yyz1-1.cdninstagram.com^
+#@@||scontent-dfw5-1.cdninstagram.com^
+#@@||scontent-dfw5-2.cdninstagram.com^
+#@@||scontent-atl3-1.cdninstagram.com^
+#@@||scontent-ord5-1.cdninstagram.com^
+#@@||scontent-msp1-1.cdninstagram.com^
+#@@||scontent-lga3-2.cdninstagram.com^
+#@@||scontent-ort2-1.cdninstagram.com^
+#@@||scontent-atl3-2.cdninstagram.com^
+#@@||scontent-mia3-2.cdninstagram.com^
+#@@||scontent-mia3-1.cdninstagram.com^
+#@@||scontent-ord5-2.cdninstagram.com^
+#@@||instagram.fdet2-1.fna.fbcdn.net^
+#@@||scontent-lga3-1.cdninstagram.com^
+#@@||scontent-ort2-2.cdninstagram.com^
+@@||scontent.cdninstagram.com^
+@@||*.cdninstagram.com^
+@@||scontent*-*.cdninstagram.com^
+@@||gateway.instagram.com^
+@@||*.xx.fbcdn.net^
+@@||edge-chat.instagram.com^
+@@||z-p42-chat-e2ee-ig.facebook.com^
+@@||cdn.fbsbx.com^
+@@||media*.giphy.com^
+@@||l.instagram.com^
 #
 #
 #
@@ -105,7 +129,7 @@
 #
 #
 #
-#............FACEBOOK
+#...................................FACEBOOK..................................................
 #
 #...⇊..Needed for Facebook groups..⇊
 #@@||graph.facebook.com^
@@ -113,6 +137,35 @@
 @@||b-www.facebook.com^|
 @@||b-api.facebook.com^|
 @@||api.facebook.com^|
+#@@||graph.facebook.com^
+#@@||b-graph.facebook.com^
+#@@||graph.fbpigeon.com^
+#@@||graph-fallback.facebook.com^
+@@||www.facebook.com^
+@@||gateway.facebook.com^
+@@||static.xx.fbcdn.net^
+@@||scontent.xx.fbcdn.net^
+@@||scontent.feau1-1.fna.fbcdn.net^
+@@||video.feau1-1.fna.fbcdn.net^
+@@||edge-chat.facebook.com^
+@@||web-chat-e2ee.facebook.com^
+@@||reg-e2ee.facebook.com^
+@@||web.whatsapp.com^
+@@||external.feau1-1.fna.fbcdn.net^
+#@@||facebook.com^|
+@@||mqtt-mini.facebook.com^
+@@||web.facebook.com^
+@@||lm.facebook.com^
+@@||m.facebook.com^
+@@||l.facebook.com^
+#@@||api.facebook.com^
+@@||edge-mqtt.facebook.com^
+@@||lookaside.facebook.com^
+@@||lookaside.fbsbx.com^
+@@||rupload.facebook.com^
+@@||upload.facebook.com^
+@@||business.facebook.com^
+@@||www.fbsbx.com^
 #
 #
 #
@@ -123,3 +176,96 @@
 #@@||beacons.gcp.gvt2.com^
 #@@||beacons.gvt2.com^
 #@@||gvt1.com^
+142.250.191.42 android.clients.google.com
+@@||android.clients.google.com^$app=com.aurora.store
+@@||play.googleapis.com^
+#
+@@||chat-pa.*-*.google.com^
+@@||signaler-pa.*-*.google.com^
+#@@||www.googleapis.com^
+#@@||googlehosted.l.googleusercontent.com^
+#@@||clientservices.googleapis.com^
+#
+#
+#.................PINTEREST....................................................
+#......Need for app content
+@@||s.pinimg.com^
+@@||ads.pinterest.com
+#
+#...............................PAIRED.............................
+#
+@@||telemetry.paired.cloud^
+#
+#..........SPOTIFY.............................................................
+#........Needed for music browsing
+@@||spclient.wg.spotify.com^|
+#
+@@||pixel.spotify.com^
+@@||pixel-static.spotify.com^
+@@||api-partner.spotify.com^
+#
+#......Needed for Premium Subcription.....
+#@@||sentry.io^
+#@@||cdn.cookielaw.org^
+#
+#
+#
+#
+#.............FINANCIAL..................................................................
+#
+@@||trinity.platform.intuit.com^
+@@||apppersonalization.api.intuit.com^
+@@||www2.bac-assets.com^
+@@||sci.digitalinsight.com^
+@@||support.creditkarma.com^
+@@||ctg-apps.intuitcdn.net^
+#.........................In Question................................
+#@@||rum.api.intuit.com^$important
+#@@||dpm.demdex.net^$important
+#@@||eventbus.intuit.com^$important
+#@@||sponge.creditkarma.com
+#@@||api.mixpanel.com^
+#@@||decide.mixpanel.com^
+#
+#
+#
+#...................REQUESTED..................
+@@||www.pbs.org^
+@@||image.pbs.org^
+@@||webflow.refersion.com^
+#@@||www-tc.pbs.org^
+#@@||jaws-prod.cdn.pbs.org^
+#
+#......................RESEARCH...............................................
+@@||search.brave.com^
+@@||www.startpage.com^
+@@||*-browse.startpage.com^
+@@||*-proxy.startpage.com^
+@@||*.startpage.com^
+@@||startpage.com^
+@@||archive.org^
+@@||wayback.archive.org^
+#...........OTHER..................................................................
+@@||rumble.com^
+@@||www.adventistchristiancoaching.com
+@@||www.campusmultiplicationnetwork.com
+@@||cdn.zoom.us
+@@||push-notifications.nextcloud.com^
+@@||click.discord.com^
+@@||graphql.api.dailymotion.com^
+@@||fast.wistia.net^
+@@||jobinterviewtool.infusionsoft.com^
+#@@||r20.rs6.net^
+@@||www.uhaul.com^
+@@||www.etsy.com^
+@@||tiles.mapillary.com^
+@@||app.trustev.com^
+@@||ephemeralcounters.api.roblox.com^
+@@||consent.trustarc.com^
+@@||www.meted.ucar.edu^
+@@||meted.ucar.edu^
+@@||mobile.aftership.com^
+@@||aftership.com^
+@@||www.bestbuy.com^
+@@||hop.clickbank.net^
+@@||nexus-websocket-a.intercom.io^
