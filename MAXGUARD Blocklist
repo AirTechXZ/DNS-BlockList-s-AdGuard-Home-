@@ -61,6 +61,7 @@
 ||dnsotls-ds.metric.gstatic.com^$important
 ||*.dnsotls-ds.metric.gstatic.com^$important
 ||*-dnsotls-ds.metric.gstatic.com^$important
+||apple-dns.net^|
 #
 #.............Anti-Tracking & Telementry..................................................................
 ||ttl1-31104000.dns-server.idealeer.com^$important
