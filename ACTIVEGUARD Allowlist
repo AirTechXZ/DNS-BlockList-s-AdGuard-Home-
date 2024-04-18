@@ -1,0 +1,172 @@
+#....Personal Allowlist by MCXSecure
+#....Websites and Domains that I have personally allowed through my own research and testing
+#....This list may not fully allow all sites, domains and services that are needed for funtionality! Please use at your own risk!
+#....Designed for iDNS3, iDNS5, iDNS6, RDNS1, & RDNS2
+#
+#
+#....Copyright © 2023 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
+#....Last updated 12/12/2023
+#
+#
+#<<<<<<<<<<<<<<<<<<<<List begins here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#
+#<<<<<...MCXSecure Domains...>>>>>>>
+@@||mcxsecure.net^$important
+@@||rtfmsecure.net^$important
+@@||secure-dns.mcxsecure.net^$important
+#
+#
+#
+#..................YOUTUBE..................................................................
+# Needed for YouTube video/music watch history
+@@||s.youtube.com^
+#
+#
+#.................INSTAGRAM.................................................................
+#...⇊..Needed for app content..⇊
+@@||instagram.feau1-1.fna.fbcdn.net^
+#
+#...⇊..Main domain that must be allowed..⇊
+@@||i.instagram.com^$important
+@@||www.instagram.com^
+#
+#....Needed for other App content.....
+@@||gateway.instagram.com^
+@@||edge-chat.instagram.com^
+@@||z-p42-chat-e2ee-ig.facebook.com^
+@@||media*.giphy.com^
+@@||l.instagram.com^
+#
+#
+#.............TIKTOK...................................................................
+#...⇊..Needed for signup verification..⇊
+@@||verification16-platform-useast5.us.tiktokv.com^
+@@||p19-security-va.ibyteimg.com^
+@@||sf16-scmcdn-va.ibytedtos.com
+#
+@@||v16m.tiktokcdn-us.com^
+@@||p19.tiktokcdn-us.com^
+@@||p16.tiktokcdn-us.com^
+@@||v25.tiktokcdn-us.com^
+@@||p19-sign.tiktokcdn-us.com^
+@@||p16-sign.tiktokcdn-us.com^
+@@||p16-sign-va.tiktokcdn.com^
+@@||api16-normal-ag-useast5.us.tiktokv.com^
+@@||vcs16-platform-useast5.us.tiktokv.com^
+@@||api16-core-useast5.us.tiktokv.com^
+@@||api16-core-c-useast1a.tiktokv.com^
+@@||mon-va.tiktokv.com^
+@@||tnc16-platform-useast1a.tiktokv.com^
+@@||frontier.us.tiktokv.com^
+@@||api16-normal-useast5.us.tiktokv.com^
+#@@||mon16-platform-useast5.us.tiktokv.com^
+#
+#
+#............FACEBOOK................................................
+#...⇊..Needed for Facebook groups..⇊
+#@@||graph.facebook.com^
+#@@||b-graph.facebook.com^
+#@@||graph.fbpigeon.com^
+#@@||graph-fallback.facebook.com^
+#
+#
+#
+#..........GOOGLE............................................................
+#....Needed to Intstall Apps from play store
+#@@||beacons.gvt2.com
+#@@||beacons.gcp.gvt2.com
+#@@||gvt1.com
+142.250.191.42 android.clients.google.com
+@@||android.clients.google.com^$app=com.aurora.store
+@@||play.googleapis.com^
+#
+@@||chat-pa.*-*.google.com^
+@@||signaler-pa.*-*.google.com^
+#@@||www.googleapis.com^
+#@@||googlehosted.l.googleusercontent.com^
+#@@||clientservices.googleapis.com^
+#
+#
+#.................PINTEREST....................................................
+#......Need for app content
+@@||s.pinimg.com^
+@@||ads.pinterest.com
+#
+#...............................PAIRED.............................
+#
+#@@||telemetry.paired.cloud^
+@@|browser-intake-datadoghq.com^|
+#
+#..........SPOTIFY.............................................................
+#........Needed for music browsing
+@@||spclient.wg.spotify.com^|
+#
+@@||pixel.spotify.com^
+@@||pixel-static.spotify.com^
+@@||api-partner.spotify.com^
+#
+#......Needed for Premium Subcription.....
+#@@||sentry.io^
+#@@||cdn.cookielaw.org^
+#
+#
+#
+#
+#.............FINANCIAL..................................................................
+#
+@@||trinity.platform.intuit.com^
+@@||apppersonalization.api.intuit.com^
+@@||www2.bac-assets.com^
+@@||sci.digitalinsight.com^
+@@||support.creditkarma.com^
+@@||ctg-apps.intuitcdn.net^
+#.........................In Question................................
+#@@||rum.api.intuit.com^$important
+#@@||dpm.demdex.net^$important
+#@@||eventbus.intuit.com^$important
+#@@||sponge.creditkarma.com
+#@@||api.mixpanel.com^
+#@@||decide.mixpanel.com^
+#
+#
+#
+#...................REQUESTED..................
+@@||www.pbs.org^
+@@||image.pbs.org^
+@@||webflow.refersion.com^
+#@@||www-tc.pbs.org^
+#@@||jaws-prod.cdn.pbs.org^
+#
+#......................RESEARCH...............................................
+@@||search.brave.com^
+@@||www.startpage.com^
+@@||*-browse.startpage.com^
+@@||*-proxy.startpage.com^
+@@||*.startpage.com^
+@@||startpage.com^
+@@||archive.org^
+@@||wayback.archive.org^
+#...........OTHER..................................................................
+@@||rumble.com^
+@@||www.adventistchristiancoaching.com
+@@||www.campusmultiplicationnetwork.com
+@@||cdn.zoom.us
+@@||push-notifications.nextcloud.com^
+@@||click.discord.com^
+@@||graphql.api.dailymotion.com^
+@@||fast.wistia.net^
+@@||jobinterviewtool.infusionsoft.com^
+#@@||r20.rs6.net^
+@@||www.uhaul.com^
+@@||www.etsy.com^
+@@||tiles.mapillary.com^
+@@||app.trustev.com^
+@@||ephemeralcounters.api.roblox.com^
+@@||consent.trustarc.com^
+@@||www.meted.ucar.edu^
+@@||meted.ucar.edu^
+@@||mobile.aftership.com^
+@@||aftership.com^
+@@||www.bestbuy.com^
+@@||hop.clickbank.net^
+@@||nexus-websocket-a.intercom.io^
