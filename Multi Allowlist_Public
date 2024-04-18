@@ -95,7 +95,7 @@
 #...............................PAIRED.............................
 #
 #@@||telemetry.paired.cloud^
-@@browser-intake-datadoghq.com^
+@@|browser-intake-datadoghq.com^|
 #
 #..........SPOTIFY.............................................................
 #........Needed for music browsing
