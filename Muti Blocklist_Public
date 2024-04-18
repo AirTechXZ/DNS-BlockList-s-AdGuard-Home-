@@ -189,3 +189,4 @@
 ||firestore.googleapis.com^
 ||*.datadog.pool.ntp.org^
 ||datadog.pool.ntp.org^
+||*.browser-intake-datadoghq.com^
