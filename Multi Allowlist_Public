@@ -1,11 +1,11 @@
 #....Personal Allowlist by MCXSecure
 #....Websites and Domains that I have personally allowed through my own research and testing
 #....This list may not fully allow all sites, domains and services that are needed for funtionality! Please use at your own risk!
-#....Designed for iDNS3, iDNS5, iDNS6, RDNS1, & RDNS2
+#....Designed for SAFEGUARD
 #
 #
-#....Copyright © 2023 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 12/12/2023
+#....Copyright © 2024 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
+#....Last updated 4/19/20234
 #
 #
 #<<<<<<<<<<<<<<<<<<<<List begins here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -95,7 +95,7 @@
 #
 #...............................PAIRED.............................
 #
-@@||securetoken.googleapis.com^
+@@||securetoken.googleapis.com^$app=com.getpaired.app
 #
 #..........SPOTIFY.............................................................
 #........Needed for music browsing
