@@ -82,6 +82,7 @@
 #
 @@||chat-pa.*-*.google.com^
 @@||signaler-pa.*-*.google.com^
+@@||securetoken.googleapis.com^
 #@@||www.googleapis.com^
 #@@||googlehosted.l.googleusercontent.com^
 #@@||clientservices.googleapis.com^
@@ -94,9 +95,7 @@
 #
 #...............................PAIRED.............................
 #
-#@@||telemetry.paired.cloud^
-#@@|browser-intake-datadoghq.com^|
-#@@||browser-intake-datadoghq.com^$app=com.getpaired.app
+@@||securetoken.googleapis.com^
 #
 #..........SPOTIFY.............................................................
 #........Needed for music browsing
