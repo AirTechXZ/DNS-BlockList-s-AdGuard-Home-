@@ -95,7 +95,8 @@
 #...............................PAIRED.............................
 #
 #@@||telemetry.paired.cloud^
-@@|browser-intake-datadoghq.com^|
+#@@|browser-intake-datadoghq.com^|
+@@||securetoken.googleapis.com^$app=com.getpaired.app
 #
 #..........SPOTIFY.............................................................
 #........Needed for music browsing
