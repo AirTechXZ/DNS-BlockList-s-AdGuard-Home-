@@ -144,6 +144,7 @@
 ||location.uku-prd-edge.ivantilabs.com^
 ||prd.location.enterprise.com^
 ||location*-*.us*-*.elb.amazonaws.com
+||location.microsoft.com^
 #
 #
 #...⇊..blocks a pinterest tracker..⇊
