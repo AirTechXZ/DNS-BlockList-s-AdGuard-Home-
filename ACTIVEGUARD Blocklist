@@ -129,6 +129,7 @@
 #...⇊..blocks possible location sent to tech...⇊
 ||userlocation.googleapis.com^
 ||userlocation.googleapis.com.home^
+||socialuserlocation.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
 ||inference.location.live.net^
 ||geomobileservices-pa.googleapis.com^
