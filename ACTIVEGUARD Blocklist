@@ -112,7 +112,10 @@
 ||marketingcloudapis.com^
 ||*.datacloudstat.com^
 ||datacloudstat.com^
-||heytapmobile.com^
+||httpdns-push.heytapmobile.com^
+||mdp-appconf-us.heytapdl.com^
+||push-dc-us.heytapmobile.com^
+||push-short-us.heytapmobile.com^
 ||oppomobile.com^
 ||heytapmobi.com^
 ||heytapdl.com^
