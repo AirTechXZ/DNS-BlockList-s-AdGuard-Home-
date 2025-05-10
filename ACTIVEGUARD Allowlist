@@ -37,6 +37,8 @@
 @@||media*.giphy.com^
 @@||l.instagram.com^
 @@||scontent*-*.cdninstagram.com^
+@@||scontent.cdninstagram.com^
+@@||*.cdninstagram.com^
 #
 #
 #.............TIKTOK...................................................................
