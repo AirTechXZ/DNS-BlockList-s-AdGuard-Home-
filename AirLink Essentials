@@ -1,0 +1,50 @@
+#....Essential Blocklist for AirLink Servers
+#....Copyright © 2025 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
+#....Last updated 6/29/2025
+#
+#
+#...........List begins here.............
+||netseer-ipaddr-assoc.xz.fbcdn.net^
+||*-netseer-ipaddr-assoc.xy.fbcdn.net^
+||auditrecording-pa.googleapis.com^
+||google-analytics.com^
+||dns.google.com^
+||dns.google^
+||footprints-pa.googleapis.com^
+||federatedcompute-pa.googleapis.com^
+||infinitedata-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^
+||rawtelemetry-east.servicebus.windows.net^
+||rawtelemetry-west.servicebus.windows.net^
+||footprint.net^
+||cognito-identity.*.amazonaws.com^
+#
+#...⇊..blocks possible location sent to tech...⇊
+||userlocation.googleapis.com^
+||userlocation.googleapis.com.home^
+||semanticlocation-pa.googleapis.com^
+||inference.location.live.net^
+#||geomobileservices-pa.googleapis.com^
+||location.services.mozilla.com^
+||locationhistoryaggregates-pa.googleapis.com^
+||staging-locationhistory-pa.sandbox.googleapis.com^
+||locationhistory-pa.googleapis.com^
+||socialuserlocation.googleapis.com^
+||edgelocation.ivanticloud.com^
+||devicelocation.ngxcld.com^
+||location.pulse.ivantilabs.com^
+||geolocation-recommendations.shopifyapps.com^
+||openlocation-dra.platform.dbankcloud.com^
+||location.uku-prd-edge.ivantilabs.com^
+||prd.location.enterprise.com^
+||location*-*.us*-*.elb.amazonaws.com
+#
+#..............................DNS Providers.....................................
+||dns.alidns.com^
+||doh.dns.apple.com^
+||dns.apple.com^
+||*.dns.apple.com^
+||-dnsotls-ds.metric.gstatic.com^$important
+||dnsotls-ds.metric.gstatic.com^$important
+||*.dnsotls-ds.metric.gstatic.com^$important
+||*-dnsotls-ds.metric.gstatic.com^$important
