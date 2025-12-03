@@ -120,6 +120,7 @@
 #connectivitycheck.gstatic.com
 ||cryptauthenrollment.googleapis.com^
 ||cryptauthdevicesync.googleapis.com^
+||deviceintegritytokens-pa.googleapis.com^
 ||dns.google.com^
 ||dns.google^
 ||dl.google.com^
