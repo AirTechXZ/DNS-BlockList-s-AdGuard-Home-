@@ -1,23 +1,14 @@
-#....Personal Blocklist by MCXSecure
-#....Websites and Domains that I have personally blocked through my own research and testing
-#....This list may break sites or services on devices! Please use at your own risk!
-#....Designed for idns3, rdns1, idns5, & idns10
-#
-#
-#....Copyright © 2025 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 1/29/2025
-#
+#Airlink ACTIVEGUARD Blocklist by MCXSecure
+#Domains that I have personally blocked through my own research and testing. This list is not aggressive, it is more as an addon to block essental things that I don't see in other blocklists
+#This list may break sites or services on some devices! Please use at your own risk!
+#Copyright © 2025 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
+#Last updated 12/03/2025
 #
 #...........List begins here.............
 #
-#
 #............MCXSECURE Test Domain..........
 #||airlinkblocktest.net
-#...............SNAPCHAT.................................................
-#
-#
-#
-#
+#...............SNAPCHAT................................................
 #............TIKTOK.......................................................
 ||log53-normal-c-useast1a.tiktokv.com^
 ||log19-applog-useast5.us.tiktokv.com^
@@ -30,18 +21,12 @@
 ||log-va.tiktokv.com^
 ||log*-*.tiktokv.com^
 #
-#
-#
-#
-#
 #..........FACEBOOK..............................................................
 ||b-graph.facebook.com^$important
 ||graph.facebook.com^$important
 #||graph-fallback.facebook.com^|
 ||netseer-ipaddr-assoc.xz.fbcdn.net^
 ||*-netseer-ipaddr-assoc.xy.fbcdn.net^
-#
-#
 #
 #.......................GOOGLE...................................................
 ||id.google.com^
@@ -102,7 +87,6 @@
 ||passwordsleakcheck-pa.googleapis.com^
 ||addons-pa.googleapis.com^
 #
-#
 #................................MICROSOFT......................................................
 ||smartscreen-prod.microsoft.com^
 ||nav.smartscreen.microsoft.com^
@@ -115,8 +99,6 @@
 #||graph.microsoft.com^ # needed for Microsoft Power Automate
 ||js.monitor.azure.com^
 ||inputsuggestions.msdxcdn.microsoft.com^
-#
-#
 #
 #.............Anti-Tracking & Telementry..................................................................
 ||ttl1-31104000.dns-server.idealeer.com^$important
@@ -156,7 +138,6 @@
 ||*.xtracloud.net^
 ||xtracloud.net^
 #
-#
 #...⇊..blocks possible location sent to tech...⇊
 ||userlocation.googleapis.com^
 ||userlocation.googleapis.com.home^
@@ -178,7 +159,6 @@
 ||location*-*.us*-*.elb.amazonaws.com
 ||location.microsoft.com^
 #
-#
 #...⇊..blocks a pinterest tracker..⇊
 #||i.pinimg.com^$important
 #
@@ -193,8 +173,6 @@
 ||*.dnsotls-ds.metric.gstatic.com^$important
 ||*-dnsotls-ds.metric.gstatic.com^$important
 #
-#
-#
 #.......................NRD's/Fake DOMAINS.......................................
 ||api.extra-awesome-confidence.net^
 ||auth.extra-awesome-confidence.net^
@@ -205,8 +183,6 @@
 ||api.wholly-splendid-cover.net^
 ||ideallynested.com^
 ||hothairzys.com^
-#
-#
 #
 #...............................OTHER.............................................
 ||inmobi.com
