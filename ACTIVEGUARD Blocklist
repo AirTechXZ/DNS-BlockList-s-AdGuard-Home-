@@ -160,6 +160,7 @@
 ||location*-*.us*-*.elb.amazonaws.com
 ||location.microsoft.com^
 ||geolocation.onetrust.com^
+||geo.*-*.microsoft.com^
 #
 #...⇊..blocks a pinterest tracker..⇊
 #||i.pinimg.com^$important
