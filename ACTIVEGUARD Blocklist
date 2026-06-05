@@ -149,6 +149,7 @@
 ||locationhistoryaggregates-pa.googleapis.com^
 ||staging-locationhistory-pa.sandbox.googleapis.com^
 ||locationhistory-pa.googleapis.com^
+||locationhistoryplacedetails-pa.googleapis.com^
 ||edgelocation.ivanticloud.com^
 ||devicelocation.ngxcld.com^
 ||location.pulse.ivantilabs.com^
@@ -158,6 +159,7 @@
 ||prd.location.enterprise.com^
 ||location*-*.us*-*.elb.amazonaws.com
 ||location.microsoft.com^
+||geolocation.onetrust.com^
 #
 #...⇊..blocks a pinterest tracker..⇊
 #||i.pinimg.com^$important
