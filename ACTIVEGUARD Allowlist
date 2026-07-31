@@ -4,8 +4,8 @@
 #....Designed for iDNS3, iDNS5, iDNS6, RDNS1, & RDNS2
 #
 #
-#....Copyright © 2024 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
-#....Last updated 4/19/2024
+#....Copyright © 2026 MCXSecure & Lidarcommunications. All rights reserved. Servers inspired by & dedicated to MJK
+#....Last updated 7/30/2026
 #
 #
 #<<<<<<<<<<<<<<<<<<<<List begins here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -85,6 +85,7 @@
 #
 @@||chat-pa.*-*.google.com^
 @@||signaler-pa.*-*.google.com^
+@@||stun.l.google.com^! Needed for Google Voice
 #@@||www.googleapis.com^
 #@@||googlehosted.l.googleusercontent.com^
 #@@||clientservices.googleapis.com^
