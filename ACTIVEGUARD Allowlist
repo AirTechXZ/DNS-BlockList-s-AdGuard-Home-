@@ -85,7 +85,7 @@
 #
 @@||chat-pa.*-*.google.com^
 @@||signaler-pa.*-*.google.com^
-@@||stun.l.google.com^! Needed for Google Voice
+#@@||stun.l.google.com^# Needed for Google Voice
 #@@||www.googleapis.com^
 #@@||googlehosted.l.googleusercontent.com^
 #@@||clientservices.googleapis.com^
